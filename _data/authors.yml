@@ -1,0 +1,11 @@
+Joe Glaser:
+  name    : "Joe Glaser"
+  bio     : "Astrophysicist by day, miniature hobbiest by night."
+  avatar  : "/assets/images/avatar-jg.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url:  "mailto:leonisminis@gmail.com"
+    - label: "Instagram"
+      icon: "fas fa-fw fa-instagram"
+      url:  "https://www.instagram.com/leonisminis/"

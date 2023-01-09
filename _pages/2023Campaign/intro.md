@@ -11,11 +11,11 @@ Coming Soon ...
 
 # Campaign Structure
 
-_The Serra Caerulea Conflict_ is a narrative campaign comprising of a mass engagement within the fridges of Galactic space during the Horus Heresy. We'll be using the _Bitter Conquest_ Campaign system for Games Workshop's **Warhammer: The Horus Heresy** (2^nd^ Edition). This system has been adapted from and inspired by the following publications: _Crusade_ (Warhammer 40,000 | 9^th^ Edition Narrative Play); _Conquest_ (_The Horus Heresy Book 4: Conquest_, pg. 166-237 ); and _Blood in the Void_ (The Horus Heresy Book 3: Extermination, pg. 184-197).
+*The Serra Caerulea Conflict* is a narrative campaign comprising of a mass engagement within the fridges of Galactic space during the Horus Heresy. We'll be using the *Bitter Conquest* Campaign system for Games Workshop's **Warhammer: The Horus Heresy** (2^nd^ Edition). This system has been adapted from and inspired by the following publications: _Crusade_ (Warhammer 40,000, 9^th^ Edition Narrative Play); *Conquest* (*The Horus Heresy Book 4: Conquest*, pg. 166-237 ); and *Blood in the Void* (The Horus Heresy Book 3: Extermination, pg. 184-197).
 
 Rather than focusing on hosting our Campaign at a singular location on specific days, we are embracing an asynchronous form of play. This opens up the narrative to a wider breath of participants and allow flexibility in scheduling.
 
-A Player (herein referred to as a _Commander_) wishing to participate in the Campaign must:
+A Player (herein referred to as a *Commander*) wishing to participate in the Campaign must:
 
 - Have access to a [Google Account](https://accounts.google.com/) in order to utilize core [Google Drive](https://drive.google.com/) functionalities. 
 - Prepare a minimum of one _Battle Company_ using the _Regimental Registry_ with a _Supply Limit_ of 1750 Points.

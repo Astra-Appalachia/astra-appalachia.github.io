@@ -1,5 +1,6 @@
 ---
 layout: single
+title: "_Bitter Conquest_ Campaign System"
 toc: true
 permalink: /bitter-conquest
 ---

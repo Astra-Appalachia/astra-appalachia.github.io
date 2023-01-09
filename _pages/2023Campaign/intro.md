@@ -3,6 +3,10 @@ layout: single
 toc: true
 permalink: /Campaigns/2023
 title: The Sierra Caerulea Conflict
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.25"
+  overlay_image: /assets/images/banners/Sierra_Caerulea.png
 ---
 
 # Narrative Overview
@@ -11,7 +15,7 @@ Coming Soon ...
 
 # Campaign Structure
 
-*The Serra Caerulea Conflict* is a narrative campaign comprising of a mass engagement within the fridges of Galactic space during the Horus Heresy. We'll be using the *Bitter Conquest* Campaign system for Games Workshop's **Warhammer: The Horus Heresy** (2^nd^ Edition). This system has been adapted from and inspired by the following publications: _Crusade_ (Warhammer 40,000, 9^th^ Edition Narrative Play); *Conquest* (*The Horus Heresy Book 4: Conquest*, pg. 166-237 ); and *Blood in the Void* (The Horus Heresy Book 3: Extermination, pg. 184-197).
+*The Sierra Caerulea Conflict* is a narrative campaign comprising of a mass engagement within the fridges of Galactic space during the Horus Heresy. We'll be using the *Bitter Conquest* Campaign system for Games Workshop's **Warhammer: The Horus Heresy** (2^nd^ Edition). This system has been adapted from and inspired by the following publications: _Crusade_ (Warhammer 40,000, 9^th^ Edition Narrative Play); *Conquest* (*The Horus Heresy Book 4: Conquest*, pg. 166-237 ); and *Blood in the Void* (The Horus Heresy Book 3: Extermination, pg. 184-197).
 
 Rather than focusing on hosting our Campaign at a singular location on specific days, we are embracing an asynchronous form of play. This opens up the narrative to a wider breath of participants and allow flexibility in scheduling.
 

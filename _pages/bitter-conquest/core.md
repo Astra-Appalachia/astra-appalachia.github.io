@@ -3,6 +3,10 @@ layout: single
 title: "_Bitter Conquest_ Campaign System"
 toc: true
 permalink: /bitter-conquest
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.25"
+  overlay_image: /assets/images/banners/Heresy_StandingArmy.png
 ---
 
 # Assembling a Battle Company in the Age of Darkness

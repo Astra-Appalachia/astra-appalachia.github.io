@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: tag
 toc: false
 permalink: /Campaigns/2023
 title: The Sierra Caerulea Conflict

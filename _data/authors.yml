@@ -4,8 +4,8 @@ Joe Glaser:
   avatar  : "/assets/images/avatar-jg.jpg"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fab fa-fw fa-envelope-square"
       url:  "mailto:leonisminis@gmail.com"
     - label: "Instagram"
-      icon: "fas fa-fw fa-instagram"
+      icon: "fab fa-fw fa-instagram"
       url:  "https://www.instagram.com/leonisminis/"

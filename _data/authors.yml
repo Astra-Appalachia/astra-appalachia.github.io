@@ -3,9 +3,9 @@ Joe Glaser:
   bio     : "Astrophysicist by day, miniature hobbiest by night."
   avatar  : "/assets/images/avatar-jg.jpg"
   links:
-    - label: "Email"
-      icon: "fab fa-fw fa-envelope-square"
-      url:  "mailto:leonisminis@gmail.com"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url:  "https://www.instagram.com/leonisminis/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url:  "mailto:leonisminis@gmail.com"

@@ -2,7 +2,7 @@
 layout: single
 title: "_Bitter Conquest_ Campaign System"
 toc: true
-permalink: /bitter-conquest
+permalink: /Bitter-Conquest
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"

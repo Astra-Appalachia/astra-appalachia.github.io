@@ -15,7 +15,7 @@ header:
 gallery:
   - image_path: /assets/images/events/ullanor/SistersLoveCannons.png
     alt: Sisters of Silence readying the artilery.
-    title: "#BitchesLoveCannons".
+    title: "Bitches Love Cannons ..."
   - image_path: /assets/images/events/ullanor/BeerHammer.png
     alt: Beer can on the table.
     title: Ullanor had fantastic product placement!
@@ -26,7 +26,7 @@ gallery:
     alt: Imperial Fists fighting Orks.
     title: The real reason Dorn wasn't made Warmaster ...
   - image_path: /assets/images/events/ullanor/ECAssault.png
-    alt: "Emperor\'s Children attacking the Orks!" 
+    alt: "Emperor's Children attacking the Orks!" 
     title: "For the glory of the Peacock!"
   - image_path: /assets/images/events/ullanor/IWAssault.png
     alt: Iron Warrior Tanks ready to take on the greenskins.

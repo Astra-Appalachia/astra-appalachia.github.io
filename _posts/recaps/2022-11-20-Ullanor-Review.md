@@ -13,13 +13,33 @@ header:
   show_overlay_excerpt: False
   teaser: /assets/images/banners/Special_Ullanor.png
 gallery:
-  - image-path: /assets/images/events/ullanor/TeleportLocked.png
-    alt: Sisters of Silence manning the artilery.
-    title: Sisters of Silence manning the artilery.
-  - image-path: /assets/images/events/ullanor/BeerHammer.png
+  - image_path: /assets/images/events/ullanor/SistersLoveCannons.png
+    alt: Sisters of Silence readying the artilery.
+    title: "#BitchesLoveCannons".
+  - image_path: /assets/images/events/ullanor/BeerHammer.png
     alt: Beer can on the table.
     title: Ullanor had fantastic product placement!
-  
+  - image_path: /assets/images/events/ullanor/CustodesAssault.png
+    alt: Custodians fighting Orks.
+    title: The Emperor's Chosen taking the fight to the green-skins!
+  - image_path: /assets/images/events/ullanor/LikeFatherLikeSon.png
+    alt: Imperial Fists fighting Orks.
+    title: The real reason Dorn wasn't made Warmaster ...
+  - image_path: /assets/images/events/ullanor/ECAssault.png
+    alt: "Emperor\'s Children attacking the Orks!" 
+    title: "For the glory of the Peacock!"
+  - image_path: /assets/images/events/ullanor/IWAssault.png
+    alt: Iron Warrior Tanks ready to take on the greenskins.
+    title: Iron Within!
+  - image_path: /assets/images/events/ullanor/BEEPBEEP.png
+    alt: Ork Waggonz ready for the FUNZ.
+    title: Orkz gotz some gud ridez!
+  - image_path: /assets/images/events/ullanor/TeleportLocked.png
+    alt: Primarchs and their chosen group for the final confrontation.
+    title: The final fight is in the view of the two Emperors ...
+  - image_path: /assets/images/events/ullanor/FinalAssault.png
+    alt: Primarchs and their chosen group for the final confrontation.
+    title: Someone is missing from this picture ...
 ---
 
 *The following is an excerpt from the Frontline Gaming article on the event, which can be [read in full here!](https://frontlinegaming.org/2022/11/14/horus-heresy-ullanor-scenario-interview/)*

@@ -1,11 +1,11 @@
 ---
 layout: single
 title: |
-  Event Recap: Ullanor MMXXII
+  *Event Recap:* Ullanor MMXXII
 permalink: /Recaps/2022/Ullanor
 excerpt: "Reviewing our first year of Ork massacres ..." 
 author: Joe Glaser
-tag: missions
+tag: reviews
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

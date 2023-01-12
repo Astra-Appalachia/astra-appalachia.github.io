@@ -1,18 +1,17 @@
 ---
 layout: single
 title: |
-  The Sierra Caerulea Conflict:
-  The Arrival
-permalink: /Campaigns/2023/Prologue
-excerpt: "A Mysterious Beacon draws the Armies of the Emperor and the Warmaster to the Nebula ..." 
+  The Ullanor Crusade [MMXXII]
+permalink: /Events/2022/Ullanor
+excerpt: "Take part in the key moment of the Great Crusade ..." 
 author: Joe Glaser
-tag: missions
+tag: events
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/banners/Heresy_PlanetFall.png
+  overlay_image: /assets/images/banners/Special_Ullanor.png
   show_overlay_excerpt: False
-  teaser: /assets/images/banners/Heresy_PlanetFall.png
+  teaser: /assets/images/banners/Special_Ullanor.png
 ---
 
 ## Event Primer

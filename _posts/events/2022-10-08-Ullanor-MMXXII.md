@@ -9,9 +9,9 @@ tag: events
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/banners/Special_Ullanor.png
+  overlay_image: /assets/images/banners/Special_Ullanor.jpg
   show_overlay_excerpt: False
-  teaser: /assets/images/banners/Special_Ullanor.png
+  teaser: /assets/images/banners/Special_Ullanor.jpg
 ---
 
 ## Event Primer

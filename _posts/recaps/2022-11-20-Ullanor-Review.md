@@ -9,9 +9,9 @@ tag: reviews
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/banners/Special_Ullanor.png
+  overlay_image: /assets/images/banners/Special_Ullanor.jpg
   show_overlay_excerpt: False
-  teaser: /assets/images/banners/Special_Ullanor.png
+  teaser: /assets/images/banners/Special_Ullanor.jpg
 gallery:
   - image_path: /assets/images/events/ullanor/SistersLoveCannons.png
     alt: Sisters of Silence readying the artilery.

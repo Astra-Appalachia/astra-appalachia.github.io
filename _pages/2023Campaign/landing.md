@@ -20,7 +20,7 @@ You can find our breakdown of the Campaign, all of its rules, and how to join [h
 
 ## Military Presences within the Nebula
 Under the command of the Emperor ...
-  - First Legion's 215th Order, "&lt;Data Redacted&gt;", under Paladin &lt;Data Redacted&gt;
+  - First Legion's 215th Order, "`<DATA REDACTED>`", under Paladin &lt;Data Redacted&gt;
   - First Legion's &lt;Data Redacted&gt; Order, "&lt;Data Redacted&gt;", under Paladin &lt;Data Redacted&gt;
   - Seventh Legion's 14th Company, "The Hammers of Dorn", under Captain Erastus
   - Tenth Legion's &lt;Data Redacted&gt; Company, "The Void-Burnt", under Iron Father Chrysaor

@@ -1,8 +1,6 @@
 ---
 layout: single
-title: >
-  The Sierra Caerulea Conflict:
-  The Arrival
+title: The Arrival
 permalink: /Campaigns/2023/Cyle0-Mission1
 excerpt: "A Mysterious Beacon draws the Armies of the Emperor and the Warmaster to the Nebula ..." 
 author: Joe Glaser

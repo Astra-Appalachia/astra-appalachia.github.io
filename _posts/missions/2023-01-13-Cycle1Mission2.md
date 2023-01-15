@@ -1,8 +1,6 @@
 ---
 layout: single
-title: >
-  The Sierra Caerulea Conflict:
-  A Fortress Besieged
+title: A Fortress Besieged
 date: 2023-01-13 19:00:00
 permalink: /Campaigns/2023/Cycle1-Mission2
 excerpt: "Now planet-side, the jewel of a stategic settlement is under attack ..." 

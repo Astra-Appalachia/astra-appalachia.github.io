@@ -108,3 +108,5 @@ Slay the Warlord, Attrition, Price of Failure
 ### Fruits of Victory
 
 If the Victorious Player is in control of the Headquarters and Tighten the Noose is not in effect, speak with the EO regarding the type of Headquarters being held for a unique reward. If the Victorious Player is **NOT** in control of the Headquarters, they may select two Units from their Engagement Force to be *Marked for Greatness* instead of one.
+
+**Mission Debriefs:** After you finish playing the above mission, ensure that one of the Commanders logs it in our system via the following Google form: [https://forms.gle/gFNQJEq2UKnNqBV58](https://forms.gle/gFNQJEq2UKnNqBV58).

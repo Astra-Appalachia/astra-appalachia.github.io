@@ -31,7 +31,7 @@ Forces Fully Committed to the Imperium of Man
   - Clave Orm (Immortals)
   - Clave Prime (Gorgons)
 
-## Commander Logs (Reverse Cronological Order)
+## Commander Logs (Reverse Chronological Order)
 
 ```
 + + + + + + + + + + ++TRANSMITTED: Battle-Barge Taranis

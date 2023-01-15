@@ -10,7 +10,7 @@ header:
   show_overlay_excerpt: False
   teaser: /assets/images/banners/Generic_IH.png
 tags: [army_profile]
-author: "Ser Squiggzz"
+author: Joe Glaser
 entries_layout: grid
 classes: wide
 excerpt: ""

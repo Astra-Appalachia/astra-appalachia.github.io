@@ -18,6 +18,7 @@ excerpt: ""
 
 ## Commander Logs (Reverse Cronological Order)
 
+```
 + + + + + + + + + + ++TRANSMITTED: Battle-Barge Taranis
 + + + + + + + + + +++RECEIVED: Imperial Forces Deployed
 + + + + + + + + + + ++DESTINATION: Fleet-wide Alert, Nebula Serra Caerulea
@@ -39,9 +40,11 @@ Enemy contact made shortly after arrival; raiding party of sorts; insignificant.
 The enemy shall know fear. The witch shall recoil from my will.
 
 + + + + + + + + + + + + + +TRANSMISSION: ENDS+ + + + + + + + + + + + + +
+```
 
 ---
 
+```
 + + + + + + + + + + + + + +TRANSMITTED: Battle-Barge Taranis 
 + + + + + + +  + + + + + + + + +RECEIVED: Imperial Forces Deployed
 + + + + + + + + + + + +  + +DESTINATION: Fleet-wide Alert, Nebula Serra Caerulea
@@ -63,3 +66,4 @@ Enemy contact made shortly after arrival; raiding party of sorts; insignificant.
 The enemy shall know fear. The witch shall recoil from my will.
 
 + + + + + + + + + + + + + +TRANSMISSION: ENDED+ + + + + + + + + + + + + +
+```

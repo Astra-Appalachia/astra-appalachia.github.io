@@ -10,7 +10,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.2"
   overlay_image: /assets/images/banners/Heresy_IFTakeAim.png
-  show_overlay_excerpt: true
+  show_overlay_excerpt: false
   teaser: /assets/images/banners/Heresy_IFTakeAim.png
 ---
 

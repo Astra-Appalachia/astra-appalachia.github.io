@@ -10,7 +10,7 @@ header:
   show_overlay_excerpt: False
   teaser: /assets/images/banners/Generic_IH.png
 tags: [army_profile]
-author: Joe Glaser
+author: Geoff B
 entries_layout: grid
 classes: wide
 excerpt: "Loyalist | Lead by Iron Father Chrysaor"

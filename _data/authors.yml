@@ -9,3 +9,7 @@ Joe Glaser:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url:  "mailto:leonisminis@gmail.com"
+Geoff B:
+  name    : "Geoff B. / Ser Squiggzz"
+  bio     : "The Flesh is Weak ..."
+  avatar  : "/assets/images/avatar-gb.jpg"

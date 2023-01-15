@@ -1,6 +1,6 @@
 ---
 layout: single
-title: |
+title: >
   The Sierra Caerulea Conflict:
   The Arrival
 permalink: /Campaigns/2023/Cyle0-Mission1
@@ -14,6 +14,12 @@ header:
   show_overlay_excerpt: False
   teaser: /assets/images/banners/Heresy_PlanetFall.png
 ---
+
+*"Not all wars are decided by feats of arms. In a struggle such as that we have embarked upon, subterfuge, deception, and intrigue may well decide the fate of the Galaxy, while the greatest warriors ever known stand impotent."*
+{: .text-center}
+
+Unknown Legionary Commander <br> Legiones Astartes Alpha Legion
+{: .text-right}
 
 ## The Armies
 

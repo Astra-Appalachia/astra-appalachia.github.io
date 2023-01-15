@@ -1,6 +1,6 @@
 ---
 layout: single
-title: |
+title: >
   The Sierra Caerulea Conflict:
   Crucial Ground
 date: 2023-01-13 18:00:00
@@ -16,9 +16,10 @@ header:
   teaser: /assets/images/banners/Heresy_IFFlag.png
 ---
 
-*"It wasn't the largest hab on Manachea, but its promethium transit nodes made it key to the entire Ullan Plateau. They say that the night Kessanir Spire fell, it was transformed into a funeral pyre and the fires of its death could be seen from orbit.*
+*"It wasn't the largest hab on Manachea, but its promethium transit nodes made it key to the entire Ullan Plateau. They say that the night Kessanir Spire fell, it was transformed into a funeral pyre and the fires of its death could be seen from orbit."*
+{: .text-center}
 
-Master Sergeant Gregario, 933rd Solar Auxilia Cohort (The King-Makers)
+Master Sgt Gregario <br> 933rd Solar Auxilia Cohort (The King-Makers)
 {: .text-right}
 
 ## The Armies

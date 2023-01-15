@@ -1,6 +1,6 @@
 ---
 layout: single
-title: |
+title: >
   The Sierra Caerulea Conflict:
   A Fortress Besieged
 date: 2023-01-13 19:00:00
@@ -15,6 +15,12 @@ header:
   show_overlay_excerpt: False
   teaser: /assets/images/banners/Heresy_IFTakeAim.png
 ---
+
+*"A dozen Legionaries fell to take that tower, and twice that number were grievously wounded. But take it we did, and in doing so, secured not only it, but a sector, a city, a peninsular and, at great length, an entire world."*
+{: .text-center}
+
+Unknown Legionary Captain <br> Legiones Astartes Imperial Fists
+{: .text-right}
 
 ## The Armies
 

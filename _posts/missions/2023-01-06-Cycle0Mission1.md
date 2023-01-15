@@ -95,3 +95,4 @@ The Arrival mission represents the two opposing sides of the Heresy making their
 Should the Raiding Commander(s) obtain at least 3 of the Strategic Objectives by the end of the game -AND/OR- should the Defending Commander(s) deny the *Enduring Hope* Secondary Objective, they may elect to either be awarded a number of RP based on the number of Objectives secured -OR- speak to the EO regarding *The Prize* which their collective Objectives have lead them to.
 
 **Mission Debriefs:** After you finish playing the above mission, ensure that one of the Commanders logs it in our system via the following Google form: [https://forms.gle/gFNQJEq2UKnNqBV58](https://forms.gle/gFNQJEq2UKnNqBV58).
+{: .notice--primary}

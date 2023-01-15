@@ -95,3 +95,4 @@ Slay the Warlord, Attrition, Price of Failure
 The Victorious Player may select any Units occupying a Target Building for *Marked for Greatness* in addition to the normal one allowed by the *Bitter Conquest* Campaign rules.
 
 **Mission Debriefs:** After you finish playing the above mission, ensure that one of the Commanders logs it in our system via the following Google form: [https://forms.gle/gFNQJEq2UKnNqBV58](https://forms.gle/gFNQJEq2UKnNqBV58).
+{: .notice--primary}

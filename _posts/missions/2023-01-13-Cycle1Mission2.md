@@ -34,6 +34,8 @@ To Determine deployment order, the Commanders roll off. The winner may choose to
 
 The Commander which has declared themselves as the Defender holds the "High Ground" at the start of the game. This Commander then chooses a single Ruin/Building/Fortification anywhere on the Table.  This is the Defending Commander's *Headquarters*. The entire area within 18" of the center of this *Headquarters* is that Commander's Deployment Zone. The Opposing Commander's Deployment Zone is anywhere on the table not within 36" of the chosen Ruin, leaving a torus of 18" in diameter around the Ruin as No Man's Land.
 
+{% include figure image_path="/assets/images/maps/Deployment_HighGround.png" alt="Deployment Map for the High Ground Mission Type." caption="*Credit: The Hours Heresy Book 4, Games Workshop Limited*" %}
+
 ## Special Rules
 
 Reserves, Headquarters

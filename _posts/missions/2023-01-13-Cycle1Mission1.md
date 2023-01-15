@@ -56,6 +56,8 @@ The Commander which has declared themselves as holding the "Safe Ground" deploys
 
 The opposing Commander's Deployment Zone (the "Deadly Ground") is the area up to 24" on from the opposite long table edge.
 
+{% include figure image_path="/assets/images/maps/Deployment_DeadlyGround.png" alt="Deployment Map for the Deadly Ground Mission Type." caption="*Credit: The Hours Heresy Book 4, Games Workshop Limited*" %}
+
 ## Special Rules
 
 Reserves, Night Fighting, Weak Superstructures

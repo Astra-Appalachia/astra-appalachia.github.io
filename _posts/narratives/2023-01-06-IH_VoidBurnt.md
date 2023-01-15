@@ -29,9 +29,13 @@ excerpt: ""
 + + + + + + + + + + ++SUBJECT: Enemy Contact
 + + + + + + + + + + ++THOUGHT: Disgust is Strength
 
-PLANETFALL ACHIEVED; SECURE ESTABLISHMENT OF LANDING ZONE ACCOMPLISHED. NO MEANINGFUL LOSSES: IMMORTALS STAND; VENERABLES STAND; **I STAND.**
+PLANETFALL ACHIEVED; SECURE ESTABLISHMENT OF LANDING ZONE ACCOMPLISHED. 
+NO MEANINGFUL LOSSES: IMMORTALS STAND; VENERABLES STAND; **I STAND.**
 
-Enemy contact made shortly after arrival; raiding party of sorts; insignificant. Enemy armour dispatched with prejudice and casualties sustained of no measurable regard; damaged frater reconstituted and ready for further action. The Key has been recovered and is under my watch.
+Enemy contact made shortly after arrival; raiding party of sorts; insignificant. 
+Enemy armour dispatched with prejudice and casualties sustained of no measurable regard; 
+damaged frater reconstituted and ready for further action. The Key has been recovered and 
+is under my watch.
 
 >>ATTACHED ARTIFICE DATA DOWNLOAD<<
 >>PROCESSING<<
@@ -43,27 +47,3 @@ The enemy shall know fear. The witch shall recoil from my will.
 ```
 
 ---
-
-```
-+ + + + + + + + + + + + + +TRANSMITTED: Battle-Barge Taranis 
-+ + + + + + +  + + + + + + + + +RECEIVED: Imperial Forces Deployed
-+ + + + + + + + + + + +  + +DESTINATION: Fleet-wide Alert, Nebula Serra Caerulea
-+ + + + + + + + + + + + + + + + + + +DATE: 
-+ + + + + + + + + ++ +TELEPATHIC DUCT: Woloch Strassny
-+ + + + + + + + + + + + + + + ++ + + +REF: TAR/90840958940324323432/CC
-+ + + + + + + + + + + + + + + + + +AUTHOR: Chrysaor, Iron-Father of the Tenth
-+ + + + + + + + + + + + + + + + + +SUBJECT: Enemy Contact
-+ + + + + + + + + + + + + + + + +THOUGHT: Disgust is Strength
-
-PLANETFALL ACHIEVED; SECURE ESTABLISHMENT OF LANDING ZONE ACCOMPLISHED. NO MEANINGFUL LOSSES: IMMORTALS STAND; VENERABLES STAND; I STAND.
-
-Enemy contact made shortly after arrival; raiding party of sorts; insignificant. Enemy armour dispatched with prejudice and casualties sustained of no measurable regard; damaged brothers reconstituted and ready for further action. The Key has been recovered and is under my watch.
-
->>ATTACHED ARTIFICE DATA DOWNLOAD<<
->>PROCESSING<<
->>DOWNLOAD COMPLETE<<
-
-The enemy shall know fear. The witch shall recoil from my will.
-
-+ + + + + + + + + + + + + +TRANSMISSION: ENDED+ + + + + + + + + + + + + +
-```

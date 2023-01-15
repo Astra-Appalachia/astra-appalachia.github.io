@@ -7,7 +7,7 @@ date: 2023-01-13 19:00:00
 permalink: /Campaigns/2023/Cycle1-Mission2
 excerpt: "Now planet-side, the jewel of a stategic settlement is under attack ..." 
 author: Joe Glaser
-tag: missions, cycle1
+tags: missions, cycle1
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"

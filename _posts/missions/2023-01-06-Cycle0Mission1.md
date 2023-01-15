@@ -6,7 +6,7 @@ title: >
 permalink: /Campaigns/2023/Cyle0-Mission1
 excerpt: "A Mysterious Beacon draws the Armies of the Emperor and the Warmaster to the Nebula ..." 
 author: Joe Glaser
-tag: missions, prologue, cycle1
+tags: missions, prologue, cycle1
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

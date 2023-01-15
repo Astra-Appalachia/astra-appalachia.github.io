@@ -20,21 +20,23 @@ You can find our breakdown of the Campaign, all of its rules, and how to join [h
 
 ## Military Presences within the Nebula
 Under the command of the Emperor ...
-  - First Legion's 215th Order, "`<DATA REDACTED>`", under Paladin &lt;Data Redacted&gt;
-  - First Legion's &lt;Data Redacted&gt; Order, "&lt;Data Redacted&gt;", under Paladin &lt;Data Redacted&gt;
+  - First Legion's 215th Order, "`<data redacted>`", under Paladin `<data redacted>`
+  - First Legion's `<data redacted>` Order, "`<data redacted>`", under Paladin `<data redacted>`
   - Seventh Legion's 14th Company, "The Hammers of Dorn", under Captain Erastus
-  - Tenth Legion's &lt;Data Redacted&gt; Company, "The Void-Burnt", under Iron Father Chrysaor
-  - Sixteenth Legion's &lt;Data Redacted&gt; Company, "The Lunar Wolves", under Captain &lt;Data Redacted&gt;
+  - Tenth Legion's `<data redacted>` Company, "The Void-Burnt", under Iron Father Chrysaor
+  - Sixteenth Legion's `<data redacted>` Company, "The Lunar Wolves", under Captain `<data redacted>`
 
 Under the command of the Warmaster ...
-  - Fourth Legion's &lt;Data Redacted&gt; Company, "The Wake of Horus", under Commander Compell
+  - Sixteenth Legion's 23rd Company, "Luna's Spectres", under Commander Compell
+    - Supported by Fourth Legion's 16th Battalion, "Brothers Adamant", under Armistos Æglyne
   - Eighth Legion's 9th Company, "The Duguid", under Talon Captain Malthus
   - 1750th Lunar Auxilia, "The Rebourn", under Legate Marshal Lord Dracen
   - Taghmata Incaladion under Archmagos Prelate-Cybernetica Ygnas Vyldanas
 
 Following their own Path ...
-  - First Legion's &lt;Data Redacted&gt; Order, "Scythes of the Emperor", under Paladin Malachi Jadesong
-  - Rogue Trader Cohort &lt;Data Redacted&gt; under Baroness &lt;Data Redacted&gt; Supporting Knight Household &lt;Data Redacted&gt;
-  - Twentith Legion's &lt;Data Redacted&gt; under "Alpharius"
+  - First Legion's `<data redacted>` Order, "Scythes of the Emperor", under Paladin Malachi Jadesong
+  - Rogue Trader Cohort `<data redacted>` under Baroness `<data redacted>` 
+    - Supported by Knight Household `<data redacted>`
+  - Twentith Legion's `<data redacted>` under "Alpharius"
 
 ## Dispatches from Command

@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/banners/Generic_IH.png
   show_overlay_excerpt: False
   teaser: /assets/images/banners/Generic_IH.png
-tags: [army_profile]
+tags: [army_profile, loyalist]
 author: Geoff B
 entries_layout: grid
 classes: wide

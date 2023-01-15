@@ -7,7 +7,7 @@ date: 2023-01-13 18:00:00
 permalink: /Campaigns/2023/Cycle1-Mission1
 excerpt: "Entrenched in a planetary settlement, the mysteries of the former occupants' livelihoods may prove essential to holding this ground" 
 author: Joe Glaser
-tag: missions
+tag: missions, cycle1
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
@@ -36,17 +36,17 @@ Terrain will be set up to mimic the packed city streets of a colonial settlement
 The Commanders then take it in turns (determined by mutual agreement or by a roll off) identifying a total of D3+1 Ruins or Buildings (which may not be Commander-controlled fortifications) anywhere on the table. These are the key buildings which both sides are attempting to control in the Engagement, and as each is identified, the Commander that does so chooses one of the building types from the following list:
 
 1. **City Defense Armoury:** *What remains of this structure is littered with ammunition cases, power packs and feed lines, allowing troops within to maintain a prodigious rate of fire without consideration of expending their own supplies.*
-   1. A Unit occupying this Structure re-rolls To Hit rolls of 1 in the Controlling Player's Shooting Phase.
+   - A Unit occupying this Structure re-rolls To Hit rolls of 1 in the Controlling Player's Shooting Phase.
 2. **Promethium Storage Deposit:** *The shattered rockcrete of this ruin is threaded with exposed promethium conduits fed from bulk storage tanks sunk in the ground below. By bleeding off controlled amounts of fuel, troops can overcharge the pressure on certain weapons, if they are willing to risk the perils of doing so.*
-   1. Any flamer weapon fired by a non-vehicle model occupying this Structure in the Controlling Player's Shooting Phase can change its weapon type from Assault or Pistol to Heavy. If it does so, the weapon gains the Torrent special rule until the end of that Phase.
+   - Any Flamer weapon fired by a non-vehicle model occupying this Structure in the Controlling Player's Shooting Phase can change its weapon type from Assault or Pistol to Heavy. If it does so, the weapon gains the Torrent special rule until the end of that Phase.
 3. **Vault of Strife:** *Within the ruin are scattered numerous artefacts of the Age of Strife, locked away with the coming of Imperial Truth, but now released by the passing of war. They include the writings of madmen and despots, accounts of their horrific deeds and relics of their awful crimes.*
-   1. All Units occupying this Structure may elect to cause Fear (2), but suffer -2 to their Leadership.
+   - All Units occupying this Structure may elect to cause Fear (2), but suffer -2 to their Leadership.
 4. **Medicae Facility:** *Though devastated like so much of the city, this medicae facility still contains sufficient automated chirugenic machines and apothecarion supplies to tend to the most grievously injured who can reach sanctuary there.*
-   1. All Units occupying this Structure gain Feel No Pain (6+) Special Rule, gaining a +1 bonus to it if they already have the rule (to a maximum of 3+).
+   - All Units occupying this Structure gain Feel No Pain (6+) Special Rule, gaining a +1 bonus to it if they already have the rule (to a maximum of 3+).
 5. **Generatorum:** *The ruin is host to what remains of a power generator facility and some of its sub-systems remain functional. Shunting power from these feeds into the intake of an energy weapon is hazardous, but when the situation dictates, some warriors will take that risk.*
-   1. Las, Melta, and Plasma weapons may add +1 to their Strength characteristic when fired by a Unit occupying this Structure. However, if this bonus is used, they gain the Gets Hot (3+) Special Rule, increasing to Gets Hot (4+) if the weapon already has this Special Rule.
+   - Las, Melta, and Plasma weapons may add +1 to their Strength characteristic when fired by a Unit occupying this Structure. However, if this bonus is used, they gain the Gets Hot (3+) Special Rule, increasing to Gets Hot (4+) if the weapon already has this Special Rule.
 6. V**ox Relay Node:** *The smashed pict-slates and hissing vox-grilles adorning the interior of this structure mark it as the remains of a communications hub. Those warriors with the training to do so can patch what remains of this network and use it to coordinate the deployment of allies.*
-   1. A player with a Unit occupying this Structure may re-roll Reserves, Outflank, and Deep Strike dice results. If this benefit is used, they must re-roll the entire dice pool (EX: both distance dice and the scatter dice for a Deep Strike Assault).
+   - A player with a Unit occupying this Structure may re-roll Reserves, Outflank, and Deep Strike dice results. If this benefit is used, they must re-roll the entire dice pool (EX: both distance dice and the scatter dice for a Deep Strike Assault).
 
 ## Deployment (Deadly Ground)
 

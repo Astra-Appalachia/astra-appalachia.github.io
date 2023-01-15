@@ -16,6 +16,16 @@ classes: wide
 excerpt: ""
 ---
 
+## Primary Battle Company Composition
+- *Company Command:* 
+  - Iron Father Chrysaor
+  - Moritat-Consul Chalyvas Groth
+- *Company Elites:* 
+  - Venerables Geryon & Silas (Leviathan-Pattern)
+  - Clave Praathe (Immortals)
+  - Clave Orm (Immortals)
+  - Clave Prime (Gorgons)
+
 ## Commander Logs (Reverse Cronological Order)
 
 ```

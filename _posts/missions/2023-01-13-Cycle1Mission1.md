@@ -7,7 +7,7 @@ date: 2023-01-13 18:00:00
 permalink: /Campaigns/2023/Cycle1-Mission1
 excerpt: "Entrenched in a planetary settlement, the mysteries of the former occupants' livelihoods may prove essential to holding this ground" 
 author: Joe Glaser
-tags: missions, cycle1
+tags: [missions, cycle1]
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"

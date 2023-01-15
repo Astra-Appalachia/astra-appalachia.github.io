@@ -57,7 +57,14 @@ A Unit in possession of an objective may transfer the objective to a friendly In
 
 An objective may not leave the table under any circumstances. If the Unit is forced to leave the Table for any reason, the Objective is placed 6" directly away from the point of exit.
 
-To determine the nature of each Objective, a Commander must investigate and then secure the Objective for transport. When a Unit is within 3" of the given Object, a Unit must sacrifice ALL Shooting actions/reactions for the Game Turn. Upon choosing to do so, the controlling Commander should consult the EO for the exact extra rules pertaining to the Objective.
+To determine the nature of each Objective, a Commander must investigate and then secure the Objective for transport. When a Unit is within 3" of the given Object, a Unit must sacrifice ALL Shooting actions/reactions for the Game Turn. Upon choosing to do so, the controlling Commander should roll a D3 to determine the Objective's Type and special rules:
+
+1. **STC Imprint Ark:** *This delicate device is used to hold full technical specifications for the rarer vehicles and weapons employed by the armies of the Imperium and is a valuable prize, one that can easily be used to turn the tide of war.*
+   - In addition to all other rules, whenever a Unit in possession of an STC Imprint Ark objective takes wounds as either part of a Shooting attack or whilst in combat with an enemy unit, roll a D6. On a score of 1, the objective is worth one less Victory Point at the end of the game - this can reduce the value over the course of a battle to 0.
+2. **Encrypted Battle Plans:** *Whether contained on officially sealed parchment, encrypted data-slates, or the vague impressions of an Astropath's telepathic sendings, the details contained within these plans would be enough to ensure victory in battles across this planetary sector.*
+   - In addition to all other rules, any Unit that declares a successful charge on an enemy unit in possession of an objective of this type gains the Furious Charge special rule for the remainder of that game turn.
+3. **Vital Defectors:** *Many non-combatants have been deemed vital for the prosecution of the war, either due to strategic information in their possession, or due to their unique skills. Willingly or not, these individuals must be removed from the enemy's reach.*
+   - In addition to all other rules, any Unit in possession of an objective of this type must rill 2D6 whenever it moves, moving a distance equal to the highest rolled dice and may not Run. In addition, if an objective of this type is present in a Unit that attempts to embark on a Transport vehicle, then the objective is treated as a separate Infantry model when determining if the Unit will fit within the Transport.
 
 The Raider carrying an Objective may elect to flee from the Battle Field from Game Turn 4 onwards by exiting their Home Board Edge through willing means (this excludes units *Falling Back*). They are not counted as casualties for any Special Rules or Victory Conditions.
 

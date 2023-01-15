@@ -13,8 +13,13 @@ tags: [army_profile]
 author: Joe Glaser
 entries_layout: grid
 classes: wide
-excerpt: ""
+excerpt: "Loyalist | Lead by Iron Father Chrysaor"
 ---
+
+## Loyality Designation
+Forces Fully Committed to the Imperium of Man
+{: .text-center}
+
 
 ## Primary Battle Company Composition
 - *Company Command:* 

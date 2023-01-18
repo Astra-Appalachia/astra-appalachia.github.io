@@ -28,11 +28,11 @@ The **Treachery at Fornax Prime** is a series of quarterly, narrative-lead event
 In addition to our normal fair of 28mm bloodshed, we'll be bringing in the much anticipated Adeptus Titanicus to our offerings (see additional details below).
 
 The day's details are as follows:
-    - ***What Day:*** February 25^th^, 2023
-    - ***What Time:*** 11 am - 7 pm EST (Doors Open at 10 AM)
-    - ***Where:*** [Fabricator's Forge](https://www.fabricatorsforge.com/) Gaming Club, located in [NW Pittsburgh, PA](https://goo.gl/maps/du8v2eY2vxVW6YPi7)
-    - ***Registration:*** [Google Form](https://forms.gle/uCZwuXsBVJ3u8iwR8) & [Ticket Order](https://square.link/u/8K7DnJCO)
-    - ***Charity Benefit:*** [The NOVA Open Charitable Foundation](https://www.novaopenfoundation.org/about)
+- ***What Day:*** February 25th, 2023
+- ***What Time:*** 11 am - 7 pm EST (Doors Open at 10 AM)
+- ***Where:*** [Fabricator's Forge](https://www.fabricatorsforge.com/) Gaming Club, located in [NW Pittsburgh, PA](https://goo.gl/maps/du8v2eY2vxVW6YPi7)
+- ***Registration:*** [Google Form](https://forms.gle/uCZwuXsBVJ3u8iwR8) & [Ticket Order](https://square.link/u/8K7DnJCO)
+- ***Charity Benefit:*** [The NOVA Open Charitable Foundation](https://www.novaopenfoundation.org/about)
 
 ## Event Schedule
 Doors will open for registered players to begin moving their armies into the staging area at 10am EST on February 25th, 2023.

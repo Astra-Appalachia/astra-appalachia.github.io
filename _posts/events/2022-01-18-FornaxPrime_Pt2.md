@@ -18,6 +18,9 @@ header:
 
 ## Narrative Primer
 
+```
+++++++++ TRANSMISSION INCOMING ++++++++
+```
 
 ## Event Overview
 The **Treachery at Fornax Prime** is a series of quarterly, narrative-lead events set in 009.M31 of the ***Warhammer: The Horus Heresy*** universe (find more information [here](https://thehorusheresy.com/)). While this is the second event in our series, we are open to all new-comers!

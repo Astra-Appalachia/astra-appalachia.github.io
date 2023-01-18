@@ -47,4 +47,3 @@ For games using the ***Adeptus Titanicus*** ruleset, the following publications 
   - [*The Siege of Kado*](https://www.warhammer-community.com/wp-content/uploads/2022/05/x1kCws4HqSQwI9YH.pdf)
 - **All White Dwarf Articles**
   - Assuming the units/rules don't occur in other more recent locations.
-- 

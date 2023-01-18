@@ -79,7 +79,7 @@ Players may also bring __any valid Lord of War (LoW)__ unit to **append** to the
 
 Any Princepts wishing to see their Legio walk on Fornax Prime should bring a force totaling **1500-2000 Points**. Custom Legios and Questoris Households are allowed as per their official and expanded rules (see below).
 
-We have a list of approved official and community-maintained publications that may be used for a player's army. You can review them on our [**Tools & Resources** page](https://www.astra-appalachia.us/Tools#approved-publications-for-all-events).
+We have a list of approved official and community-maintained publications that may be used for a player's army. You can review them on our [**Tools & Resources**](https://www.astra-appalachia.us/Tools#approved-publications-for-all-events) page.
 
 By its very nature, this event focuses heavily on forging a narrative and immersive experience. As such, it is heavily preferred if models being fielded by players fit within the narrative and honor the time and commitment of their opponents.
 

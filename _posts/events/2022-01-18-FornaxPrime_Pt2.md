@@ -1,7 +1,7 @@
 ---
 layout: single
 title: |
-  The Ullanor Crusade [MMXXII]
+  Treachery at Fornax Prime, Part 2
 permalink: /Events/2023/FornaxPrime_Part2
 excerpt: |
   "Embroiled in Treachery, forge your army's own path to victory in this

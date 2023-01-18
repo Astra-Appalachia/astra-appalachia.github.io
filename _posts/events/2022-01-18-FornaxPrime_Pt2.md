@@ -1,0 +1,84 @@
+---
+layout: single
+title: |
+  The Ullanor Crusade [MMXXII]
+permalink: /Events/2023/FornaxPrime_Part2
+excerpt: |
+  "Embroiled in Treachery, forge your army's own path to victory in this
+  narrative-centric, full-day event filled with fun that only 30K can deliever!" 
+author: Joe Glaser
+tag: events
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/banners/Heresy_BurningPlanet.png
+  show_overlay_excerpt: False
+  teaser: /assets/images/banners/Heresy_BurningPlanet.png
+---
+
+## Event Primer
+
+The **Treachery at Fornax Prime** is a series of quarterly, narrative-lead events set in 009.M31 of the ***Warhammer: The Horus Heresy*** universe (find more information [here](https://thehorusheresy.com/)). While this is the second event in our series, we are open to all new-comers!
+
+(( Narrative Here ... ))
+
+The day's details are as follows:
+    - ***What Day:*** February 25^th^, 2023
+    - ***What Time:*** 11 am - 7 pm EST (Doors Open at 10 AM)
+    - ***Where:*** [Fabricator's Forge](https://www.fabricatorsforge.com/) Gaming Club, located in [NW Pittsburgh, PA](https://goo.gl/maps/du8v2eY2vxVW6YPi7)
+    - ***Registration:*** [Google Form](https://forms.gle/uCZwuXsBVJ3u8iwR8) & [Ticket Order](https://square.link/u/8K7DnJCO)
+    - ***Charity Benefit:*** [The NOVA Open Charitable Foundation](https://www.novaopenfoundation.org/about)
+
+## Event Schedule
+Doors will open for registered players to begin moving their armies into the staging area at 10am EST on February 25th, 2023.
+
+Opening Announcements will commence promptly at 11:00 AM.
+
+The day's primary event will consist of two rounds normal full-table Horus Heresy seperated by a 45-Minute break for lunch. Should time allow, a third round will take place.
+
+As per usual, we will have a over-sized Zone Mortalis board for folks who do not yet have a full fighting force ready. This will be an multi-player board, with all armies acting independent of each other to obtain their secret objectives. Like the normal games, there will be two rounds seperated by the break for lunch. Should time allow, a extra rounds will take place.
+
+We will also be featuring (for the first time) an integrated, multi-player **Adeptus Titanicus** game. Players will be encouraged to have their Legio's take the field, with their actions causing direct effects on the primary Horus Heresy games. As before, there will be two rounds seperated by the break for lunch. Should time allow, a extra rounds will take place.
+
+Players may elect to opt into a group order for Lunch. Those wishing to participate should expect to pay $10 USD for this option.
+
+We will conclude the event ideally at 7:00PM EST (and no later than 8:30PM EST), appended by the small Award Ceremony.
+
+## Event Mechanics
+Each event, a Player must choose to be a part of the **Loyalists** or **Traitor** Faction. At the start of the event, each Faction will electively decide their on **Fleet Commander** for the event. Narrative missions will be assigned to each table (referred to a **War Zones**). Taken in turns, the **Fleet Commanders** will select a table and one of their own members to engage on it. The opposing **Fleet Commander** will then elect one of their own to challenge their opponent in the given **War Zone**. The process will repeat until all participants have engaged on a front. 
+
+**Legio Princepts** should note that while they do not need to fight on the same side if they play in any Heresy games through the day, their actions during their Titanic Battle will have consequences on the narrative and the concurrent battles across the event.
+
+Likewise, returning players  are not required to field the same force they used in the last Fornax Prime event. After all, the Heresy was a chaotic time and not every force could sustain a long singular engagement.
+
+### Charitable Donations
+If we have learned anything from our time in the hobby, its that wargammers are a generous lot. Whenever an event is held by Astra Appalachia, we try give back and benefit a charity in need.
+
+For this event, we will be benefiting the [The NOVA Open Charitable Foundation](https://www.novaopenfoundation.org/about).
+
+For every $1 USD donated and verified by the Event Organizer, players will be awarded one **Oath-of-Moment** token. These tokens can be spent in the following ways through-out the event:
+
+- **[1 Oath]** ***"The Fates are Fickle"*** - Re-roll a single die roll at any point while you are the Active player.
+- **[2 Oaths]** ***"Trust Your Gut"*** - The Reacting Player may preform an additional reaction in the current Game Turn's phase.
+- **[4 Oaths]** ***"Only in Death does Duty End"*** - When your Army's Warlord suffers his final wound, he may make a number of Shooting or Melee attacks instantly adding the *Precision Shot/Strike* and *Preferred Enemy (Character)* Special Rules to the attacks.
+- **[8 Oaths]** ***"Not Today, Brother"*** - At the start of any Shooting or Combat phase, choose a single friendly non-vehicle unit. For the remainder of the phase, that unit may treat its armor save as its Invulnerable Save.
+- **[10 Oaths]** ***"Channel the Legion"*** - The Reacting Player may use their Legion Unique Reaction an additional time during normal gameplay.
+- **[25 Oaths]** ***"By Blood, Our Bonds are Strong"*** - At the beginning of the game, add a single unit with the *Sworn Brothers* Allegiance Trait worth no more than 250pts to your army, starting the game in Ongoing Reserves.
+
+For players only engaged in Adeptus Titanicus, the Event Organizer will facilitate additional Oaths as they are needed (contact us at <a href="mailto:info@astra-appalachia.us">info@astra-appalachia.us</a> before the event).
+
+## Army Composition Requirements
+For the event, players should prepare an army totaling **3,000 Points** following the __Crusade Force Organization Chart__ and/or an army totaling **1,250 Points** following the __Zone Mortalis Organization Chart__.
+
+Players may also bring __any valid Lord of War (LoW)__ unit to **append** to their Crusade Force, which will be fielded in any game where both opponents are able to and agree to do so. The LoW Choice must not must not exceed the usual cap of **750 Points** and is treated as an additional detachment (aka, they are separate from and added onto the 3,000 Point cap). This is not part of For ***Part Two***, __Primarchs are not allowed to be fielded in any army__.
+
+Any Princepts wishing to see their Legio walk on Fornax Prime should bring a force totaling 1500-2000 Point. Custom Legios and Questoris Households are allowed as per their official and expanded rules (see below).
+
+We have a list of approved official and community-maintained publications that may be used for a player's army. You can review them on our [**Tools & Resources** page](https://www.astra-appalachia.us/Tools#approved-publications-for-all-events).
+
+By its very nature, this event focuses heavily on forging a narrative and immersive experience. As such, it is heavily preferred if models being fielded by players fit within the narrative and honor the time and commitment of their opponents.
+
+It is **required** that all players "Slay the Grey," bringing only models which meet the Games Workshop **Battle-Ready or 3-Color-Minimum Standard** (clear acrylic bases are allowed if it is the player's preference). Remember, "Battle-Ready" is not "Parade-Ready", so don't stress yourself out over perfection!
+
+## Awards, Trophies, & Prizes … Oh My!
+At each Event, there will be four award categories to be claimed by attendees: **Best Painted Army**, **Best Narrative Fluff**, **Best Sportsmanship**, and a **special secret award**. These awards are meant to honor the skill, dedication, and attitude of a player along with their chosen force which took to the battlefield on that event.

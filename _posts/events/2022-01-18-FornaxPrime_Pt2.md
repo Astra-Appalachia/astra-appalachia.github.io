@@ -74,7 +74,7 @@ For the event, players should prepare an army totaling **3,000 Points** followin
 
 Players may also bring __any valid Lord of War (LoW)__ unit to **append** to their Crusade Force, which will be fielded in any game where both opponents are able to and agree to do so. The LoW Choice must not must not exceed the usual cap of **750 Points** and is treated as an additional detachment (aka, they are separate from and added onto the 3,000 Point cap). This is not part of For ***Part Two***, __Primarchs are not allowed to be fielded in any army__.
 
-Any Princepts wishing to see their Legio walk on Fornax Prime should bring a force totaling 1500-2000 Point. Custom Legios and Questoris Households are allowed as per their official and expanded rules (see below).
+Any Princepts wishing to see their Legio walk on Fornax Prime should bring a force totaling **1500-2000 Points**. Custom Legios and Questoris Households are allowed as per their official and expanded rules (see below).
 
 We have a list of approved official and community-maintained publications that may be used for a player's army. You can review them on our [**Tools & Resources** page](https://www.astra-appalachia.us/Tools#approved-publications-for-all-events).
 

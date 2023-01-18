@@ -13,6 +13,8 @@ header:
 *Ad Archium* (IE: 'To the Archive' in M3.English) is a free reference retrevial tool, made by the community, for the community. Their goal is simple: allow players to quickly and accurately cross-check references during gameplay. You can access it online (both on desktop as well as on mobile) via [adarchium.github.io](https://adarchium.github.io/)
 
 ## Approved Publications for All Events
+
+For games using the ***Warhammer: The Horus Heresy (Second Edition)*** rulesets, the following publications have been preapproved: 
 - **Age of Darkness** Core Rulebook [(Latest Errata)](https://www.warhammer-community.com/wp-content/uploads/2022/09/OP2GmimgEkrpS9xK.pdf)
 - **Liber Hereticus** Army Book [(Latest Errata)](https://www.warhammer-community.com/wp-content/uploads/2022/09/yPxvcNBwok6C9Wb0.pdf)
 - **Liber Astartes** Army Book [(Latest Errata)](https://www.warhammer-community.com/wp-content/uploads/2022/09/W5j7BzUZIWTnwRs1.pdf)
@@ -29,3 +31,20 @@ header:
 - **Liber Panoptica** Community FAQ [(Version 3.1)](https://hh-ageofdarkness.itch.io/liberpanoptica)
 - **Liber Centura** Community Expansion [(Version 1.5)](https://hh-ageofdarkness.itch.io/libercentura)
 - **Liber Ingenium** Community Expansion ([Version 1.2](https://hh-ageofdarkness.itch.io/liberingenium))
+
+For games using the ***Adeptus Titanicus*** ruleset, the following publications have been preapproved:
+- **Core Rulebook** ([2021 Update](https://www.games-workshop.com/en-US/Adeptus-Titanicus-Rulebook-2021))
+- **Loyalist Legios** Army Book ([2021 Rerelease](https://www.games-workshop.com/en-US/Adeptus-Titanicus-Loyalist-Legios-2021))
+- **Traitor Legios** Army Book ([2021 Rerelease](https://www.games-workshop.com/en-US/adeptus-titanicus-traitor-legios-2021))
+- **FAQ and Errata** ([Version 1.4](https://www.warhammer-community.com/wp-content/uploads/2022/05/x1kCws4HqSQwI9YH.pdf))
+- **Matched Play Guide** ([2022 Release](https://www.games-workshop.com/en-US/at-matched-play-guide-eng-2022))
+- **Publications for Narrative Missions / Campaign Rules Only**
+  - [*Crucible of Retribution*](https://www.games-workshop.com/en-US/Adeptus-Titanicus-Crucible-of-Retribution-2020)
+  - [*Shadow and Iron*](https://www.games-workshop.com/en-US/Adeptus-Titanicus-Shadow-And-Iron-EN-2020)
+  - [*The Defence of Ryza*](https://www.games-workshop.com/en-US/Adeptus-Titanicus-Defence-Of-Ryza-2020)
+  - [*Titandeath*](https://www.games-workshop.com/en-US/Titandeath-sb-2019)
+  - [*Doom of Molech*](https://www.games-workshop.com/en-US/Adeptus-Titanicus-Doom-Of-Molech-EN-2019)
+  - [*The Siege of Kado*](https://www.warhammer-community.com/wp-content/uploads/2022/05/x1kCws4HqSQwI9YH.pdf)
+- **All White Dwarf Articles**
+  - Assuming the units/rules don't occur in other more recent locations.
+- 

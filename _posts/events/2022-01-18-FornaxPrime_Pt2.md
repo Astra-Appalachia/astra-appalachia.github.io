@@ -19,7 +19,54 @@ header:
 ## Narrative Primer
 
 ```
-++++++++ TRANSMISSION INCOMING ++++++++
++++++++ TRANSMISSION DATED 2.153.009.M31 TERRAN STANDARD +++++++
+
+The Galaxy is burning and with it, my Home.
+
+Fornax Prime was once a garden oasis; a rare jewel of a world hospitable 
+to mankind. In its evening skies hung the ringed gas giant, Vesta, which 
+played shepherd to my Home for millennia; bringing my Home into its guiding 
+influence when the mountains were new and the skies blazed with the fires of 
+colliding worlds. Or so we are told by the scholars of the Imperium. My 
+fellow native brothers and sisters simply enjoyed its bounty, for there 
+was always much to give. We survived Old Night by simplifying our needs; 
+refraining from gorging ourselves on hubris of man. 
+
+Do not mistake me, should any remnant of this survive. We were not like 
+the savages of Fenris. Our technologies simply did not take from our 
+World more than we were given. Simplicity does not mean regression.
+
+But that all faded when the Imperium's vessels arrived in our skies in 
+876.M30. To quote an Iterator of the Lie, "moderately late in the 
+Emperor's grand endeavor to unify Humanity." It seems that despite my 
+Home's physical proximity to the Throne World, we did not lie along any 
+major Warp pathways. In addition, the auspicious combination of Vesta's 
+magnetic field and our seemingly unique lifestyle shielded my Home from 
+detection by any long range auger searches for inhabited domains ripe 
+for conquer. 
+
+However, this did not stop the Drake from "rescuing us" from our old ways. 
+I say this with no venom towards Lord Vulcan or his sons. I met him once, 
+after our quick "Compliance," when I worked within the Archival Vaults of 
+the Universtat Oxian. I do not believe he does anything in malice. I cannot 
+believe that of him ... not truly. Even now, as the Dream fails, I know he 
+did his Father's bidding with kindness in his Twin Hearts.
+
+And now, those hallowed halls which held our secrets lay in ruin. The once 
+pristine air of our forests are choked by ordnance blasts. The ground quakes 
+under our feet as Gods walk the planes. We no longer can see our Shepherding 
+Maiden in our skies, blotted out by the raging inferno that engulfs us all.
+
+It is the end of my Home. Brought from the Snake of Deception in the guise 
+of enlightenment. Damn them all, Horus and the Emperor alike. 
+
+To you, dear reader, I want you to know that the Forge of the Stars has many 
+secrets. Buried deep below, They have slumbered for eons. We shall see who 
+knows no fear ...
+
+Aldric Von Kingston, Archivist
+
+++++++++ TRANSMISSION TERMINATED +++++++
 ```
 
 ## Event Overview

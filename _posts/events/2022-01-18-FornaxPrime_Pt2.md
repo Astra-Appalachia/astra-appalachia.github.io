@@ -72,7 +72,7 @@ Aldric Von Kingston, Archivist
 ## Event Overview
 The **Treachery at Fornax Prime** is a series of quarterly, narrative-lead events set in 009.M31 of the ***Warhammer: The Horus Heresy*** universe (find more information regarding the setting [here](https://thehorusheresy.com/)). While this is the second event in our series, we are open to all new-comers!
 
-In addition to our normal fair of 28mm bloodshed, we will be adding the much anticipated Adeptus Titanicus to our offerings (see additional details below).
+In addition to our normal fare of 28mm bloodshed, we will be adding the much anticipated Adeptus Titanicus to our offerings (see additional details below).
 
 The day's details are as follows:
 - ***What Day:*** February 25th, 2023

@@ -19,16 +19,16 @@ classes: wide
     {% if post.tags contains "events" %}
         {% assign postStartDate = post.event_date | date: "%s" %}
         {% if postStartDate >= curDate %}
-            ![{{ post.header.overlay_image }}]
-
-            [{{ post.title }}]({{ post.permalink }})
-            
-            {{ post.event_date | date: "%a, %b %d, %Y"}}
-
+            {% assign nextEvent = post %}
             {% break %}
         {% endif %}
     {% endif %}
 {% endfor %}
 
+![{{ nextEvent.header.overlay_image }}]
+
+[{{ nextEvent.title }}]({{ nextEvent.permalink }})
+
+{{ nextEvent.event_date | date: "%a, %b %d, %Y"}}
 
 ## Compendium

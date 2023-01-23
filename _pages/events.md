@@ -25,10 +25,9 @@ classes: wide
     {% endif %}
 {% endfor %}
 
-![{{ nextEvent.header.overlay_image }}]
+{% include figure image_path="{{ nextEvent.header.overlay_image }}" alt="Banner for {{ nextEvent.title }}" %}
 
-[{{ nextEvent.title }}]({{ nextEvent.permalink }})
-
+### [{{ nextEvent.title }}]({{ nextEvent.permalink }})
 {{ nextEvent.event_date | date: "%a, %b %d, %Y"}}
 
 ## Compendium

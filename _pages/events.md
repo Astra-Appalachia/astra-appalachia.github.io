@@ -18,7 +18,7 @@ classes: wide
     {% if post.tags contains "events" %}
         {% assign postStartDate = post.event_date | date: '%s' %}
         {% if postStartDate >= curDate %}
-            <img src={{post.header.overlay_image}} width="80%">
+            ![{{ post.header.overlay_image }}]
 
             [{{ post.title }}]({{ post.permalink }})
             

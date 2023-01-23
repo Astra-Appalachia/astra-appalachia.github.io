@@ -26,6 +26,7 @@ classes: wide
 
             {% break %}
         {% endif %}
+    {% endif %}
 {% endfor %}
 
 

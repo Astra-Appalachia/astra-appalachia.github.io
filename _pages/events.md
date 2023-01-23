@@ -25,8 +25,6 @@ classes: wide
 
 ## Next Event
 
-{% include figure image_path='{{ nextEvent.header.overlay_image }}' %}
-
 ### [{{ nextEvent.title }}]({{ nextEvent.permalink }})
 {{ nextEvent.event_date | date: "%a, %b %d, %Y"}}
 

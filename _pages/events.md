@@ -2,7 +2,7 @@
 layout: tag
 toc: false
 permalink: /Events
-title: The Sierra Caerulea Conflict
+title: Our Events
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"

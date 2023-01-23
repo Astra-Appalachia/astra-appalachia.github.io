@@ -17,14 +17,13 @@ classes: wide
 {{ curDate }}
 {% for post in site.posts reversed %}
     {% if post.tags contains "events" %}
-        {{ post.title }}, {{ post.date }}, {{ post.event_date }}
         {% assign postStartDate = post.event_date | date: '%s' %}
         {% if postStartDate >= curDate %}
-            <!--<img src={{post.header.overlay_image}} width="80%">-->
+            <img src={{post.header.overlay_image}} width="80%">
 
-            {{ post.title }}
+            [{{ post.title }}]({{ post.permalink }})
             
-            {{ post.event_date }}
+            {{ post.event_date | date: '%a, %b %d, %Y'}}
 
             {% break %}
         {% endif %}

@@ -25,7 +25,12 @@ classes: wide
 
 ## Next Event
 
+![image-center]({{ nextEvent.header.overlay_image }}){: .align-center}
+
 [{{ nextEvent.title }}]({{ nextEvent.permalink }})
-{{ nextEvent.event_date | date: "%a, %b %d, %Y"}}
+{: .text-center}
+
+Join us on {{ nextEvent.event_date | date: "%a, %b %d, %Y"}}
+{: .text-center}
 
 ## Compendium

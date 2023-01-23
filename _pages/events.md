@@ -14,7 +14,6 @@ classes: wide
 
 ## Next Event
 {% assign curDate = site.time | date: '%s' %}
-{{ curDate }}
 {% for post in site.posts reversed %}
     {% if post.tags contains "events" %}
         {% assign postStartDate = post.event_date | date: '%s' %}

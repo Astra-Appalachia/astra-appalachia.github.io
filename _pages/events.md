@@ -25,7 +25,7 @@ classes: wide
 
 ## Next Event
 
-### [{{ nextEvent.title }}]({{ nextEvent.permalink }})
+[{{ nextEvent.title }}]({{ nextEvent.permalink }})
 {{ nextEvent.event_date | date: "%a, %b %d, %Y"}}
 
 ## Compendium

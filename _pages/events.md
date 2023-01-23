@@ -13,8 +13,6 @@ classes: wide
 ---
 {% assign curDate = site.time | date: "%s" %}
 
-## Next Event
-
 {% for post in site.posts reversed %}
     {% if post.tags contains "events" %}
         {% assign postStartDate = post.event_date | date: "%s" %}
@@ -25,7 +23,9 @@ classes: wide
     {% endif %}
 {% endfor %}
 
-{% include figure image_path="{{ nextEvent.header.overlay_image }}" alt="Banner for {{ nextEvent.title }}" %}
+## Next Event
+
+{% include figure image_path="{{ nextEvent.header.overlay_image }}" %}
 
 ### [{{ nextEvent.title }}]({{ nextEvent.permalink }})
 {{ nextEvent.event_date | date: "%a, %b %d, %Y"}}

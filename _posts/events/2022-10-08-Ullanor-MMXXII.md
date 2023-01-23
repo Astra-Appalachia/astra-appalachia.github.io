@@ -6,6 +6,7 @@ permalink: /Events/2022/Ullanor
 excerpt: "Take part in the key moment of the Great Crusade ..." 
 author: Joe Glaser
 tag: events
+event_date: 2022-11-05 10:00:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

@@ -8,7 +8,7 @@ excerpt: |
   narrative-centric, full-day event filled with fun that only 30K can deliever!" 
 author: Joe Glaser
 tag: events
-event_date: 2022-02-25 10:00:00
+event_date: 2023-02-25 10:00:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

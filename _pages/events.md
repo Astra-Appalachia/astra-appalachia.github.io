@@ -14,8 +14,10 @@ classes: wide
 
 ## Next Event
 {% assign curDate = site.time | date: '%s' %}
+{{ curDate }}
 {% for post in site.posts reversed %}
     {% if post.tags contains "events" %}
+        {{ post.title }}, {{ post.date }}, {{ post.event_date }}
         {% assign postStartDate = post.event_date | date: '%s' %}
         {% if postStartDate >= curDate %}
             <!--<img src={{post.header.overlay_image}} width="80%">-->

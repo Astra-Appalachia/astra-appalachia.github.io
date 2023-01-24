@@ -17,6 +17,7 @@ main:
 
 Campaign2023:
   - title: "Overview HUB"
+    children:
     - title: "Bitter Conquest Rule System"
       url: /Bitter-Conquest
     - title: "Registration Form"
@@ -26,6 +27,7 @@ Campaign2023:
     - title: "After-Game Debrief Form"
       url: https://forms.gle/gFNQJEq2UKnNqBV58
   - title: "Narratives"
+    children:
     - title: "Committed Armies"
       url: /Campaigns/2023/Armies
     - title: "Prose Submissions"
@@ -35,6 +37,7 @@ Campaign2023:
     - title: "Current Dispatch"
       url: /Campaigns/2023/Chapter1-1
   - title: "Partner Communities"
+    children:
     - title: "The Fabricator's Forge (Western Pennsylvania)"
       url: https://discord.gg/fabricatorsforge
     - title: "NWM Warhammer (Northern West Virginia)"

@@ -14,3 +14,32 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+Campaign2023:
+  - title: "Overview HUB"
+    - title: "Bitter Conquest Rule System"
+      url: /Bitter-Conquest
+    - title: "Registration Form"
+      url: https://forms.gle/vawBZEE4QTwchSkr9
+    - title: "Blank Mobile-Ready Roster"
+      url: https://docs.google.com/spreadsheets/d/16BCPO0KQLAuUYAGdp5InqGLLtwZDTIiygZj8hFZoBTY/edit?usp=sharing
+    - title: "After-Game Debrief Form"
+      url: https://forms.gle/gFNQJEq2UKnNqBV58
+  - title: "Narratives"
+    - title: "Committed Armies"
+      url: /Campaigns/2023/Armies
+    - title: "Prose Submissions"
+      url: https://prose.astra-appalachia.us
+    - title: "Image Submissions"
+      url: https://images.astra-appalachia.us
+    - title: "Current Dispatch"
+      url: /Campaigns/2023/Chapter1-1
+  - title: "Partner Communities"
+    - title: "The Fabricator's Forge (Western Pennsylvania)"
+      url: https://discord.gg/fabricatorsforge
+    - title: "NWM Warhammer (Northern West Virginia)"
+      url: https://discord.gg/uX4PzTzgUK
+    - title: "Ohio 30K (Central Ohio)"
+      url: https://www.facebook.com/groups/620791115079114
+    - title: "The Remembrancer's Retreat (Greater Appalachia)"
+      url: https://discord.gg/8TMFkZWmjF

@@ -34,7 +34,7 @@ For those interested in expanding their knowledge of the *Age of Darkness*, we h
 **Editor's Note**: The folks over at [Jambonium](https://jambonium.co.uk/horus-heresy-map-project/) have created an expansive interactive map of the Galaxy including lots of fringe locations mentioned in Lore and in Large-Scale Narrative Events (currently totalling 6700 locations). You can explore it [here](https://jambonium.co.uk/40kmap/) and learn how to navigate it (including how to access its extremely detailed Timeline feature) [here](https://jambonium.co.uk/2022/01/final-version-of-the-40k-map/)
 {: .notice--primary}
 
---
+---
 
 ## Approved Publications for All Events
 

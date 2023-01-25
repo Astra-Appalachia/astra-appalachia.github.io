@@ -9,6 +9,9 @@ header:
   overlay_image: /assets/images/banners/Heresy_StandingArmy.png
 ---
 
+**Frequently Asked Questions**: You can find our FAQ for the system describe below [here](/Bitter-Conquest/FAQ).
+{: .notice--primary}
+
 # Assembling a Battle Company in the Age of Darkness
 
 The first step any Player (herein referred to as a *Commander*) must accomplish to participate in a narrative Campaign during the Horus Heresy is creating a ***Battle Company***. The Battle Company represents those militants whom have banded together under a common cause to fight their way across the Galaxy, either in the name of the Emperor or the Warmaster. Given the nature of this system, it is highly suggested that Commanders invest time into building a narrative around the origins of their Battle Company as it can serve as a guiding light through their journey into the Age of Darkness.
@@ -25,11 +28,11 @@ Roster Cards keep track of the individual Units Experience, Upgrades and Battle 
 
 Any Unit with the Unique trait should not be given a Roster Card as they cannot make Advancements within the Campaign. However, such Units still contribute towards the Battle Company's Points Total and its Supply Limit and should be noted on the Regimental Registry. In addition, they cannot be [*Taken Out of Action*](#taken-out-of-action-tests) and as such they cannot gain *Battle Scars*. 
 
-New units can be added to the Regimental Registry at any time, provided that doing so does not exceed the Battle Company’s Supply Limit. Once a unit has been added, however, its deftails cannot be changed freely. This means that the unit cannot change the number of models it consists of, the war gear they are equipped with, or any of the abilities etc. that have been chosen for that unit. Some units have options which must be chosen or generated prior to the game, once these are done the first time they cannot be changed.
+New units can be added to the Regimental Registry at any time, provided that doing so does not exceed the Battle Company’s Supply Limit. Once a unit has been added, however, its details cannot be changed freely. This means that the unit cannot change the number of models it consists of, the war gear they are equipped with, or any of the abilities etc. that have been chosen for that unit. Some units have options which must be chosen or generated prior to the game, once these are done the first time they cannot be changed.
 
 Units can also be removed from a forces Regimental Registry at any time, but one removed a unit cannot be added back into the Regimental Registry again later (so any upgrades, Battle Honors, etc. they have acquired are lost), they are effectively disbanded. Removing a unit from the Regimental Registry does not affect its Supply Limit, so removing one unit can potentially leave room to add a new unit to the force’s Regimental Registry.
 
-An important thing to remember is that the units making up the Regimental Registry do not have to conform to any Force Organisation Chart or Allies matrix. Instead, they form the available pool of units from which an army can be created, at which time a legal list must be used. So, for example, the Regimental Registry could include units from other factions, but when they are included in an army, they would be fielded as Allies, needing all of the required minimum units to do so. So early on, it is common for an Regimental Registry to look identical to an army list, but as the campaign progresses and the Supply Limit is increased, more varied options can be incorporated to give the Battle Company some flexibility.
+An important thing to remember is that the units making up the Regimental Registry do not have to conform to any Force Organization Chart or Allies matrix. Instead, they form the available pool of units from which an army can be created, at which time a legal list must be used. So, for example, the Regimental Registry could include units from other factions, but when they are included in an army, they would be fielded as Allies, needing all of the required minimum units to do so. So early on, it is common for an Regimental Registry to look identical to an army list, but as the campaign progresses and the Supply Limit is increased, more varied options can be incorporated to give the Battle Company some flexibility.
 
 A unique aspect of the *Bitter Crusade* Campaign System is how it handles Warlord Traits. Warlord Traits are not automatically granted to an eligible Unit unless the Unit in question is a Named Character (and as such, has it listed on their profile). Instead, leaders must gain a Warlord Trait through the use of Requisitions, either when they are initially added to the Regimental Registry or when they are promoted. As a counter balance, any Character may eventually reach the point where they begin to grow in their abilities (see [Battle Honours](#battle-honours) and the [Beseech the Wisdom of the Ancients](#beseech-the-wisdom-of-the-ancients) Requisition Request) to represent their advancement in the narrative.
 
@@ -43,7 +46,7 @@ At all times, a Battle Company's current level of RP should be recorded on its R
 
 A Commander may only spend their banked RP at the beginning of a *Chapter*. Chapters are designated sections of the narrative campaign that players are forging with their Event Organizer(s) and can be used to mark out significant moments of time, shifts in the focus of the campaign, etc. This restriction helps root the Campaign within the fractured nature of the Galaxy during the span of the Horus Heresy. There is no limit to the amount of RP that a Commander may spend at the start of each Chapter.
 
-For a full list of Requisitions, see [Appendix: Requisition Requests](#appendix:-requsition-requests).
+For a full list of Requisitions, see [Appendix: Requisition Requests](#appendix-requisition-requests).
 
 # Campaign Battles
 
@@ -116,10 +119,10 @@ Now compare the final result with the following Causality Survival Table:
 | Modified Roll Result | Resulting Narrative                                          |
 | -------------------- | ------------------------------------------------------------ |
 | 1 - 2                | **Survived:** The Character escapes lasting injury and recovers without any negative penalties. |
-| 2 -3                 | **Shaken:** The Character is pained by their injuries and loss at the hand of the enemy. In the next game in which the character is fielded, they suffere a -1 penalty to their Leadership characteristic. |
-| 4 - 5                | **Battle Scared**: The wounds that the Character have left a lasting effect on them. Proceed to the ***Battle Scar*** section and roll on the table which matches the Character's Unit Type. The Unit then suffers -1 Crusade Points. Note, that a Character may not have the same Battle Scar twice, so reroll all duplicate Battle Scars. |
-| 6                    | **Captured:** The Character has been injured beyond the capacity to resist capture and is carried off deep behind enemy lines to be interrogated, tortured, or perhaps executed and their remains used as trophies. The Character's Commander may elect to engage in a Liberation mission to decide the Character's fate. This must be completed before the end of the current Chapter and the Character cannot be used until after the Mission has been completed. Otherwise, this roll is considered to have resulted in a *Fatality* (see below). |
-| 7 +                  | **Fatality:** The Character has suffered such terrible injuries that they are either slain completely or so badly wounded they are barely alive when they return to the Fleet. If this is the first time the Character has experienced this result, the Commander may elect to have the Character interred into a Cortus-grade Dreadnought Chassis (see Appendix: Upgrades and Artifacts). |
+| 3 - 4                 | **Shaken:** The Character is pained by their injuries and loss at the hand of the enemy. In the next game in which the character is fielded, they suffere a -1 penalty to their Leadership characteristic. |
+| 4 - 6                | **Battle Scared**: The wounds that the Character have left a lasting effect on them. Proceed to the ***Battle Scar*** section and roll on the table which matches the Character's Unit Type. The Unit then suffers -1 Crusade Points. Note, that a Character may not have the same Battle Scar twice, so reroll all duplicate Battle Scars. |
+| 7                    | **Battle Scared** + **Captured:** The Character has been injured beyond the capacity to resist capture and is carried off deep behind enemy lines to be interrogated, tortured, or perhaps executed and their remains used as trophies. The Character's Commander may elect to engage in a Liberation mission to decide the Character's fate. This must be completed before the end of the current Chapter and the Character cannot be used until after the Mission has been completed. Otherwise, this roll is considered to have resulted in a *Fatality* (see below). |
+| 8 +                  | **Fatality:** The Character has suffered such terrible injuries that they are either slain completely or so badly wounded they are barely alive when they return to the Fleet. If this is the first time the Character has experienced this result, the Commander may elect to have the Character interred into a Cortus-grade Dreadnought Chassis (see Appendix: Upgrades and Artifacts). |
 
 ## Update Experience Points and Gain Ranks
 
@@ -189,3 +192,31 @@ Select one Character which has been upgraded via the *Field Promotion* Requisiti
 ## Repair and Recuperate (2 RP)
 
 Select one Unit from within your Battle Company that has one or more Battle Scars. Select one of that Unit's Battle Scars and remove it from the Roster Card, ensuring to also remove the -1 modifier to their Crusade Points. 
+
+## Rearm and Resupply (1 RP)
+Unlike other Requisitions, this Order may be purchased at any time. Select one Unit from your Regimental Registry that has a Roster Card. You can change any Wargear Options that models in that unit are equipped with as described on that unit’s profile. You cannot replace a Weapon that a model is equipped with if the Weapon in question has been upgraded by a Weapon Enhancement/Battle Honor/etc.
+
+**Designer's Note:** Remember, you may always pay for the Optional Wargear when you first create a Unit's Roster Card. If you do so, treat it as an additional points cost for the Unit (adding to the Unit's total) for the purposes of determining if you are under your Supply Limit. You may never exceed your Supply Limit for any reason.
+{: .notice--info}
+
+## Even in Death I Still Serve (2 RP)
+Unlike other Requisitions, this Order may be purchased at the Death of a Character -OR- at the beginning of a Chapter. Select a Character which has been removed from the Campaign as a **Fatality*. This Character may be returned to service within a Dreadnought Chassis, replacing its Stat Profile, all Wargear, and any Default Special Rules with that of any of the following base units depending on the Character's Nature:
+  - Astartes Character Options:
+    - Legion Contemptor Dreadnought
+    - Legion Castra Ferrum Dreadnought
+    - Legion Leviathan Dreadnought*
+    - Legion Deredeo Dreadnought
+  - Mechanicum Character Options:
+    - Domitar Battle-Automata Shell
+    - Arlatax Battle-Automata Shell
+  - Questoris Knights Character Option:
+    - Spirit of the Throne*
+  - Custodes Character Option:
+    - Contemptor-Achillus Dreadnought
+  - Silent Sisterhood Character Options
+    - Ancillae Casket
+  - Solar Auxilia Option
+    - The Inheritance of Duty*
+
+**Designer's Note:** Any of the above options marked with a * require a discussion with the EO before a Player may select it as an option.
+{: .notice--info}

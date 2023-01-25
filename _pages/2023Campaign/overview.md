@@ -44,10 +44,10 @@ Cycles will be grouped into _Chapters_, consisting of between 1-3 Cycles. At the
     - **Ch. 2.3** (_Mar 31st - Apr 12th_): 2250pt Game Maximum
   - **Chapter 3** (_Apr 14th - Apr 26th_): 2750pt Supply Limit
     - **Ch. 3.1** (_Apr 14th - Apr 26th_): 2500pt Game Maximum
-  - **Chapter 4** (_May 12th - June 21st_): 3000pt Supply Limit
+  - **Chapter 4** (_May 12th - Jun 21st_): 3000pt Supply Limit
     - **Ch. 4.1** (_May 12th - May 24th_): 2500pt Game Maximum
-    - **Ch. 4.2** (_May 26th - June 7th_): 2750pt Game Maximum
-    - **Ch. 4.3** (_June 9th - June 21st_): 2750pt Game Maximum
+    - **Ch. 4.2** (_May 26th - Jun 7th_): 2750pt Game Maximum
+    - **Ch. 4.3** (_Jun 9th - Jun 21st_): 2750pt Game Maximum
 
 
 ---

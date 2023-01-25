@@ -16,8 +16,10 @@ main:
   #   url: /sitemap/
 
 Campaign2023:
-  - title: "Overview HUB"
+  - title: "Overviews"
     children:
+    - title: "Campaign Breakdown"
+      url: /Campaigns/2023/Structure
     - title: "Bitter Conquest Rule System"
       url: /Bitter-Conquest
     - title: "Registration Form"
@@ -30,19 +32,19 @@ Campaign2023:
     children:
     - title: "Committed Armies"
       url: /Campaigns/2023/Armies
+    - title: "Current Dispatch"
+      url: /Campaigns/2023/Chapter1-1
     - title: "Prose Submissions"
       url: https://prose.astra-appalachia.us
     - title: "Image Submissions"
       url: https://images.astra-appalachia.us
-    - title: "Current Dispatch"
-      url: /Campaigns/2023/Chapter1-1
-  - title: "Partner Communities"
+  - title: "Local Communities"
     children:
-    - title: "The Fabricator's Forge (Western Pennsylvania)"
+    - title: "The Fabricator's Forge "
       url: https://discord.gg/fabricatorsforge
-    - title: "NWM Warhammer (Northern West Virginia)"
+    - title: "North WV Warhammer"
       url: https://discord.gg/uX4PzTzgUK
-    - title: "Ohio 30K (Central Ohio)"
+    - title: "Ohio 30K"
       url: https://www.facebook.com/groups/620791115079114
-    - title: "The Remembrancer's Retreat (Greater Appalachia)"
+    - title: "The Remembrancer's Retreat"
       url: https://discord.gg/8TMFkZWmjF

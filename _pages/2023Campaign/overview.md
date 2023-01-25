@@ -20,7 +20,9 @@ Rather than focusing on hosting our Campaign at a singular location on specific 
 
 Please note, the Campaign is designed to be inclusive of all Players (herein referred to as a *Commanders*) regardless of where they are stationed in Greater Appalachia, hence our _Play-When-And-Where-You-Can_ Asynchronous narrative structure. We ask that if Commanders take to the field at their Friendly Local Gaming Store (FLGS), to please ensure that you patronize the location, either through a regular membership or day-of hobby supplies purchase.
 
+
 ---
+
 
 # Campaign Progression
 
@@ -32,12 +34,24 @@ If a Commander is **unable to coordinate an engagement** in one of the Conflict 
 
 Cycles will be grouped into _Chapters_, consisting of between 1-3 Cycles. At the start of each Chapter, there will be a Campaign-Wide Supply Limit Increase. This will also be the time when Commanders may spend Requisition Points to upgrade their armies (learn more about this process [here](/Bitter-Conquest#requisitions)). The schedule for the first half of 2023 is as follows:
 
-  - **Chapter 1** (_Jan 13th - Feb 22nd_): 2000 Point Supply Limit
-  - **Chapter 2** (_Mar 3rd - Apr 12th_): 2250 Point Supply Limit
-  - **Chapter 3** (_Apr 14th - Apr 26th_): 2750 Point Supply Limit
-  - **Chapter 4** (_May 12th - June 21st_): 3000 Point Supply Limit
+  - **Chapter 1** (_Jan 13th - Feb 22nd_): 2000pt Supply Limit
+    - **Ch. 1.1** (_Jan 13th - Jan 25th_): 1750pt Game Maximum
+    - **Ch. 1.2** (_Jan 27th - Feb 8th_): 1900pt Game Maximum
+    - **Ch. 1.3** (_Feb 10th - Feb 22nd_): 1900pt Game Maximum 
+  - **Chapter 2** (_Mar 3rd - Apr 12th_): 2250pt Supply Limit
+    - **Ch. 2.1** (_Mar 3rd - Mar 15th_): 2000pt Game Maximum
+    - **Ch. 2.2** (_Mar 17th - Mar 29th_): 2000pt Game Maximum
+    - **Ch. 2.3** (_Mar 31st - Apr 12th_): 2250pt Game Maximum
+  - **Chapter 3** (_Apr 14th - Apr 26th_): 2750pt Supply Limit
+    - **Ch. 3.1** (_Apr 14th - Apr 26th_): 2500pt Game Maximum
+  - **Chapter 4** (_May 12th - June 21st_): 3000pt Supply Limit
+    - **Ch. 4.1** (_May 12th - May 24th_): 2500pt Game Maximum
+    - **Ch. 4.2** (_May 26th - June 7th_): 2750pt Game Maximum
+    - **Ch. 4.3** (_June 9th - June 21st_): 2750pt Game Maximum
+
 
 ---
+
 
 # Publications and Expansions
 

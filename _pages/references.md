@@ -12,6 +12,16 @@ header:
 ## Ad Archium
 *Ad Archium* (IE: 'To the Archive' in M3.English) is a free reference retrevial tool, made by the community, for the community. Their goal is simple: allow players to quickly and accurately cross-check references during gameplay. You can access it online (both on desktop as well as on mobile) via [adarchium.github.io](https://adarchium.github.io/)
 
+---
+
+## Zone Mortalis Related Content
+
+Featured in [White Dwarf 477](https://www.warhammer-community.com/2022/06/08/white-dwarf-477-preview-the-world-eaters-kill-maim-and-burn-with-brutal-new-rules/) released in June of 2022, *Warhammer: The Horus Heresy* contains a game mode specially made for the tight-quarters combat of Void Hulks and Urban Alleyways/Tunnels: Zone Mortalis. This issue is no longer available for order, though some FLGS still have it in stock.
+
+As such, you can locate a full digital copy of the Article for personal-use only [here](https://drive.google.com/file/d/1WQDUWdgltW9QsNQEVFkxYnxluOtCZ7vw/view?usp=share_link).
+
+---
+
 ## Approved Publications for All Events
 
 For games using the ***Warhammer: The Horus Heresy (Second Edition)*** rulesets, the following publications have been preapproved: 

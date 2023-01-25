@@ -12,7 +12,6 @@ header:
 ## Ad Archium
 *Ad Archium* (IE: 'To the Archive' in M3.English) is a free reference retrevial tool, made by the community, for the community. Their goal is simple: allow players to quickly and accurately cross-check references during gameplay. You can access it online (both on desktop as well as on mobile) via [adarchium.github.io](https://adarchium.github.io/)
 
----
 
 ## Zone Mortalis Related Content
 
@@ -20,7 +19,6 @@ Featured in [White Dwarf 477](https://www.warhammer-community.com/2022/06/08/whi
 
 As such, you can locate a full digital copy of the Article for personal-use only [here](https://drive.google.com/file/d/1WQDUWdgltW9QsNQEVFkxYnxluOtCZ7vw/view?usp=share_link).
 
----
 
 ## Lore Deep-Dive
 For those interested in expanding their knowledge of the *Age of Darkness*, we have compiled the non-exhaustive list of valuable resources below.
@@ -34,7 +32,6 @@ For those interested in expanding their knowledge of the *Age of Darkness*, we h
 **Editor's Note**: The folks over at [Jambonium](https://jambonium.co.uk/horus-heresy-map-project/) have created an expansive interactive map of the Galaxy including lots of fringe locations mentioned in Lore and in Large-Scale Narrative Events (currently totalling 6700 locations). You can explore it [here](https://jambonium.co.uk/40kmap/) and learn how to navigate it (including how to access its extremely detailed Timeline feature) [here](https://jambonium.co.uk/2022/01/final-version-of-the-40k-map/)
 {: .notice--primary}
 
----
 
 ## Approved Publications for All Events
 

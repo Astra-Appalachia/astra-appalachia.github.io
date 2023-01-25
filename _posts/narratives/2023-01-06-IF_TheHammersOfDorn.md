@@ -23,13 +23,17 @@ Forces Fully Committed to the Imperium of Man
 
 ## Primary Battle Company Composition
 - *Company Command:* 
-  - Commander Compell, Sons of Horus
-  - Armistos Æglyne, Iron Warriors
+  - Captain Erastus
+- *Company Elites:*
+  - Cataphractii Squad Scapula
+  - Indomitus Squad Messalla
+  - Venerable Brother Merula
+  - Venerable Brother Falto
 
 ## Commander Logs (Reverse Chronological Order)
 
 >VOX REPORT FOR IRON FATHER CHRYSAOR
-
+>
 >FROM CAPTAIN ERASTUS,
 >14TH COMPANY OF THE IMPERIAL FISTS
 >THE HAMMERS OR DORN

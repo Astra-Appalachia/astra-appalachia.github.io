@@ -2,7 +2,7 @@
 layout: single
 title: Special Mission - Liberation
 date: 2023-01-13 19:00:00
-permalink: /Campaigns/2023/Special-Liberation
+permalink: /Bitter-Conquest/Special-Liberation
 excerpt: "One of your treasured leaders has been captured. Can you rescue them from the enemy's clutches?" 
 author: Joe Glaser
 tags: [missions, special]

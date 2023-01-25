@@ -23,7 +23,16 @@ excerpt: "Oppertunistic | Lead by Commander Scalar Actual"
 
 ## Primary Battle Company Composition
 - *Company Command:* 
-  - Commander Scalar Actual
+  - Scalar Actual
+  - Exodus
+  - Vigilator Mirobilus
+- *Company Elites:*
+  - The Cleaners
+  - Stanchion 2-2
+  - Snoop 9-9
+  - Hitman 1-1
+  - Assassin 6-4
+  - Sicario 2-3
 
 ## Commander Logs (Reverse Chronological Order)
 

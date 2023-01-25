@@ -27,6 +27,26 @@ excerpt: "Oppertunistic | Lead by Paladin Malachi Jadesong"
 
 ## Commander Logs (Reverse Chronological Order)
 ```
+"Paladin..." The mass of bodies was ripped apart, blood soaked pieces of ceramite tossed aside as Azekiel's massive powerfist dug through the aftermath of the vicious battle.  
+
+"Paladin!" Azekiel's voice boomed again as he found the richly decorated artifer armor worn my Malachai.  
+
+Choking and spitting up blood, life surged through Malachai's veins.  His adrenaline pumps fully activated upon returning consciousness.
+
+"Azekiel, Azekiel," Malachai gasped for air as the massive Contemptor Dreadnought pulled him up, "We won I take it?"
+
+"We took the day, yes," the deep booming voice of the dread replied as an explosion rung out on the other side of the battlefield.  Atreus Deluciun, the Leviathan, was tearing into a fellow Dark Angel's Contemptor.
+
+"Tell the men to stand down.  Collect our dead and wounded, allow our brothers to claim their as well," Malachai's senses were narrowing and his keen vision returning.  He was seeing some movement among his Veterans and Interemptors that got overwhelmed early in the battle.  Clearly Azekiel had seen them fall and leapt from his assigned ruin to their aid.
+
+Azekiel sent the command through the vox, apparently to Atreus' disappointment.  The Leviathan pulled the claws from his siege claw free from the near death contemptor and sat him next to the nearby ruined building, "You fought well brother, but I will not spare you next time." 
+
+All in all, it had been a good fight.  The Scythes of the Emporer met their first foe, a Dark Angel contingent sent to put their brothers in check.  This was going to be a hard war.  Malachai was furious he had failed his first challenge.  Was he truly the person needed for this venture.  His resolve was shaken, but not destroyed.  Grabbing his Terranic Greatsword up from the ground and standing to his feet with Azekiel's help he looked up at the burning sky, "We continue.  Call for the transports."  
+```
+
+---
+
+```
 "Are you sure, Paladin?" Arakiel Ezekos' voice boomed, despite the Contemptor speaking quietly.
 
 "Yes Brother, a surprise to me as well," Malachai spoke back, still staring at the vox.  A message from Terra, supposedly from the Emperor himself.  The Paladin of the Hekatonystika turned to his friend, "This sets us on a course we were surely unprepared for."

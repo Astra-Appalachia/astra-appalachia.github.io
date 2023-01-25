@@ -19,3 +19,14 @@ excerpt: "Traitors | Lead by Talon Captain Malthus"
 ## Loyality Designation
 Forces Fully Committed to the Empire of Dark Compliance
 {: .text-center}
+
+## Primary Battle Company Composition
+- *Company Command:* 
+  - Talon Captain Malthus
+
+## Commander Logs (Reverse Chronological Order)
+
+```
++++++ TRANSMISSION LOG CORRUPTED +++++
++++++  SEE YOUR LOCAL ARCHIVIST  +++++
+```

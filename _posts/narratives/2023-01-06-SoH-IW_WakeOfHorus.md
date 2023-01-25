@@ -19,3 +19,15 @@ excerpt: "Traitors | Lead by Commander Compell and Armistos Æglyne"
 ## Loyality Designation
 Forces Fully Committed to the Empire of Dark Compliance
 {: .text-center}
+
+## Primary Battle Company Composition
+- *Company Command:* 
+  - Commander Compell, Sons of Horus
+  - Armistos Æglyne, Iron Warriors
+
+## Commander Logs (Reverse Chronological Order)
+
+```
++++++ TRANSMISSION LOG CORRUPTED +++++
++++++  SEE YOUR LOCAL ARCHIVIST  +++++
+```

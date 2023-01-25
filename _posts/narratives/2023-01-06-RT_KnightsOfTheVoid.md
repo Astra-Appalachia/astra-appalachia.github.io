@@ -1,20 +1,20 @@
 ---
 layout: single
 toc: false
-permalink: /Campaigns/2023/AL_ReconCompany
-title: "The XX Legion's Scalar 9-2 Recon Company"
+permalink: /Campaigns/2023/RT_KnightsOfTheVoid
+title: "The Rogue Trader Cohort <DATA MISSING> under Baroness Du'Voloch"
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
-  overlay_image: /assets/images/banners/Generic_AL.png
+  overlay_image: /assets/images/banners/Generic_RT.png
   show_overlay_excerpt: False
-  teaser: /assets/images/banners/Generic_AL.png
+  teaser: /assets/images/banners/Generic_RT.png
 tags: [army_profile, oppertunistic]
-author: David D
+author: Ian K
 entries_layout: grid
 classes: wide
 excerpt: ""
-excerpt: "Oppertunistic | Lead by Commander Scalar Actual"
+excerpt: "Oppertunistic, Lead by Baroness Du'Voloch"
 ---
 
 ## Loyality Designation
@@ -23,7 +23,8 @@ excerpt: "Oppertunistic | Lead by Commander Scalar Actual"
 
 ## Primary Battle Company Composition
 - *Company Command:* 
-  - Commander Scalar Actual
+  - Baroness Du'Voloch, Rouge Trader Extraordinaire
+  - Seneschal `<DATA MISSING>` of House `<DATA MISSING>`
 
 ## Commander Logs (Reverse Chronological Order)
 

@@ -20,3 +20,15 @@ excerpt: "Loyalist | Lead by Captain Erastus"
 ## Loyality Designation
 Forces Fully Committed to the Imperium of Man
 {: .text-center}
+
+## Primary Battle Company Composition
+- *Company Command:* 
+  - Commander Compell, Sons of Horus
+  - Armistos Æglyne, Iron Warriors
+
+## Commander Logs (Reverse Chronological Order)
+
+```
++++++ TRANSMISSION LOG CORRUPTED +++++
++++++  SEE YOUR LOCAL ARCHIVIST  +++++
+```

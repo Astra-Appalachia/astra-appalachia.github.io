@@ -19,3 +19,14 @@ excerpt: "Traitors | Lead by Legate Marshal Lord Dracen"
 ## Loyality Designation
 Forces Fully Committed to the Empire of Dark Compliance
 {: .text-center}
+
+## Primary Battle Company Composition
+- *Company Command:* 
+  - Legate Marshal Lord Dracen
+
+## Commander Logs (Reverse Chronological Order)
+
+```
++++++ TRANSMISSION LOG CORRUPTED +++++
++++++  SEE YOUR LOCAL ARCHIVIST  +++++
+```

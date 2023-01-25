@@ -20,3 +20,14 @@ excerpt: "Traitors | Lead by Archmagos Prelate-Cybernetica Ygnas Vyladanas"
 ## Loyality Designation
 Forces Fully Committed to the Empire of Dark Compliance
 {: .text-center}
+
+## Primary Battle Company Composition
+- *Company Command:* 
+  - Archmagos Prelate-Cybernetica Ygnas Vyladanas
+
+## Commander Logs (Reverse Chronological Order)
+
+```
++++++ TRANSMISSION LOG CORRUPTED +++++
++++++  SEE YOUR LOCAL ARCHIVIST  +++++
+```

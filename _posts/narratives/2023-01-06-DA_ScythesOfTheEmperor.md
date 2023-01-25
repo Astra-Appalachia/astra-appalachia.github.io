@@ -21,7 +21,12 @@ excerpt: "Oppertunistic | Lead by Paladin Malachi Jadesong"
 *Fidelitas Scindo*
 {: .text-center}
 
+## Primary Battle Company Composition
+- *Company Command:* 
+  - Paladin Malachi Jadesong
+
 ## Commander Logs (Reverse Chronological Order)
+```
 "Are you sure, Paladin?" Arakiel Ezekos' voice boomed, despite the Contemptor speaking quietly.
 
 "Yes Brother, a surprise to me as well," Malachai spoke back, still staring at the vox.  A message from Terra, supposedly from the Emperor himself.  The Paladin of the Hekatonystika turned to his friend, "This sets us on a course we were surely unprepared for."
@@ -37,5 +42,4 @@ Malachai read the command again, "Most loyal of sons, Malachai.  I require this 
 "So be it, vox the The Resolve and distribute my orders to the men, we leave tonight at 2100," Malachai spoke.  The Emperor was a god, he knew it true, but even gods need their Scythes.
 
 "Cyphus will be especially pleased," Arakiel's laughter echoed from the walls.
-
----
+```

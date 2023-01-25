@@ -22,6 +22,20 @@ As such, you can locate a full digital copy of the Article for personal-use only
 
 ---
 
+## Lore Deep-Dive
+For those interested in expanding their knowledge of the *Age of Darkness*, we have compiled the non-exhaustive list of valuable resources below.
+- Galactic Map ([Interactive](https://thehorusheresy.com/explore-the-galaxy) / [Static](https://drive.google.com/file/d/1LECgF8lT3RWzJ9v6mb0910rVONcsLswX/view?usp=share_link))
+- Horus Heresy Timeline ([Official](https://thehorusheresy.com/explore-the-galaxy) / [Fan-Curated](https://wh40k.lexicanum.com/wiki/Horus_Heresy_Timeline))
+- Heresy-Era Legion Markings by Trude ([Fan-Curated](https://docs.google.com/spreadsheets/d/1-7sEO9C63WV0iVPMeWkzf4KmuAEWY6soyJfW0-51H2Y/edit?usp=share_link))
+- Great Crusade Remembrancer Artwork by Various Artists ([Fan-Curated](https://docs.google.com/spreadsheets/d/1-7sEO9C63WV0iVPMeWkzf4KmuAEWY6soyJfW0-51H2Y/edit?usp=share_link))
+- The Horus Heresy: Spoiler Free Reading Order by [Black Librarium](https://twitter.com/blacklibrarium)
+  - [High-Resolution Chart](https://i.ibb.co/gjSnS1C/Horus-Heresy-Spoiler-Free-Reading-Order-V3-0-VO-nomessage.png) (~50 MB, Download Encouraged)
+
+**Editor's Note**: The folks over at [Jambonium](https://jambonium.co.uk/horus-heresy-map-project/) have created an expansive interactive map of the Galaxy including lots of fringe locations mentioned in Lore and in Large-Scale Narrative Events (currently totalling 6700 locations). You can explore it [here](https://jambonium.co.uk/40kmap/) and learn how to navigate it (including how to access its extremely detailed Timeline feature) [here](https://jambonium.co.uk/2022/01/final-version-of-the-40k-map/)
+{: .notice--primary}
+
+--
+
 ## Approved Publications for All Events
 
 For games using the ***Warhammer: The Horus Heresy (Second Edition)*** rulesets, the following publications have been preapproved: 

@@ -52,3 +52,33 @@ Campaign2023:
       url: https://www.facebook.com/groups/620791115079114
     - title: "The Remembrancer's Retreat"
       url: https://discord.gg/8TMFkZWmjF
+
+BitterConquest:
+  - title: Bitter Conquest
+    children:
+    - title: "Core Rules"
+      url: "/Bitter-Conquest"
+    - title: "FAQ and Errata"
+      url: "/Bitter-Conquest/FAQ"
+    - title: "Requisition Requests"
+      url: "/Bitter-Conquest/Requisitions"
+    - title: "Battle Honours"
+      url: "/Bitter-Conquest/Battle-Honours"
+    - title: "Battle Scars"
+      url: "/Bitter-Conquest/Battle-Scars"
+    - title: "Advanced Skills"
+      url: "/Bitter-Conquest/Advanced-Skills"
+    - title: "Extra Warlord Traits"
+      url: "/Bitter-Conquest/Warlord-Traits"
+  - title: Expansions
+    children:
+    - title: "Blood in the Void"
+      url: "/Bitter-Conquest/Blood-in-the-Void"
+    - title: "Treasures of Conquerors"
+      url: "/Bitter-Conquest/Vaults"
+  - title: Useful Tools
+    children:
+    - title: "Interactive Glossary"
+      url: "https://adarchium.github.io"
+    - title: "Blank Mobile-Ready Roster"
+      url: https://docs.google.com/spreadsheets/d/16BCPO0KQLAuUYAGdp5InqGLLtwZDTIiygZj8hFZoBTY/edit?usp=sharing

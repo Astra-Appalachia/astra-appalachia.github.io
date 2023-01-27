@@ -7,6 +7,8 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /assets/images/banners/Heresy_StandingArmy.png
+sidebar:
+  nav: BitterConquest
 ---
 
 **Frequently Asked Questions**: You can find our FAQ for the system describe below [here](/Bitter-Conquest/FAQ).
@@ -34,7 +36,7 @@ Units can also be removed from a forces Regimental Registry at any time, but one
 
 An important thing to remember is that the units making up the Regimental Registry do not have to conform to any Force Organization Chart or Allies matrix. Instead, they form the available pool of units from which an army can be created, at which time a legal list must be used. So, for example, the Regimental Registry could include units from other factions, but when they are included in an army, they would be fielded as Allies, needing all of the required minimum units to do so. So early on, it is common for an Regimental Registry to look identical to an army list, but as the campaign progresses and the Supply Limit is increased, more varied options can be incorporated to give the Battle Company some flexibility.
 
-A unique aspect of the *Bitter Crusade* Campaign System is how it handles Warlord Traits. Warlord Traits are not automatically granted to an eligible Unit unless the Unit in question is a Named Character (and as such, has it listed on their profile). Instead, leaders must gain a Warlord Trait through the use of Requisitions, either when they are initially added to the Regimental Registry or when they are promoted. As a counter balance, any Character may eventually reach the point where they begin to grow in their abilities (see [Battle Honours](#battle-honours) and the [Beseech the Wisdom of the Ancients](#beseech-the-wisdom-of-the-ancients) Requisition Request) to represent their advancement in the narrative.
+A unique aspect of the *Bitter Crusade* Campaign System is how it handles Warlord Traits. Warlord Traits are not automatically granted to an eligible Unit unless the Unit in question is a Named Character (and as such, has it listed on their profile). Instead, leaders must gain a Warlord Trait through the use of Requisitions, either when they are initially added to the Regimental Registry or when they are promoted. As a counter balance, any Character may eventually reach the point where they begin to grow in their abilities (see [Battle Honours](#battle-honours) and the [Beseech the Wisdom of the Ancients](/Bitter-Conquest/Requsisitions#beseech-the-wisdom-of-the-ancients) Requisition Request) to represent their advancement in the narrative.
 
 # Requisitions
 
@@ -46,7 +48,7 @@ At all times, a Battle Company's current level of RP should be recorded on its R
 
 A Commander may only spend their banked RP at the beginning of a *Chapter*. Chapters are designated sections of the narrative campaign that players are forging with their Event Organizer(s) and can be used to mark out significant moments of time, shifts in the focus of the campaign, etc. This restriction helps root the Campaign within the fractured nature of the Galaxy during the span of the Horus Heresy. There is no limit to the amount of RP that a Commander may spend at the start of each Chapter.
 
-For a full list of Requisitions, see [Appendix: Requisition Requests](#appendix-requisition-requests).
+For a full list of Requisitions, see [Appendix: Requisition Requests](/Bitter-Conquest/Requsisitions).
 
 # Campaign Battles
 
@@ -85,10 +87,10 @@ For every Engagement fought in a Campaign, there are additional motivations to c
 
 | roll Result | Boon's Description                                           |
 | :---------: | ------------------------------------------------------------ |
-|      1      | The Victor gains 2 RP, instead of 1 RP as usual.             |
+|      1      | The Victor gains RP equal to half of their Victory Points, to a minimum of 2 RP, instead of 1 RP as usual.             |
 |      2      | The Victor can select two Units from their Engagement Force to be *Marked for Greatness* instead of one. |
-|      3      | The Victor can select one Unit from their Engagement Force to gain a *Battle Trait* upgrade as if they progressed a level. |
-|      4      | The Victor can select one Unit from their Engagement Force, that Unit gains an eligible *Weapon Enhancement* Battle Honour. |
+|      3      | The Victor may elect to use their obtained 1 RP for the Engagement to enact the *Birth of a Warlord* Requisition immediately. |
+|      4      | The Victor can select three Units from their Engagement Force to be *Marked for Greatness* instead of one. |
 |      5      | The Victor may elect to use their obtained 1 RP for the Engagement to enact the *Increase Supply Limit* Requisition immediately. |
 |      6      | The Victor may elect to use their obtained 1 RP for the Engagement to enact the *Repair and Recuperate* Requisition immediately. |
 
@@ -119,8 +121,8 @@ Now compare the final result with the following Causality Survival Table:
 | Modified Roll Result | Resulting Narrative                                          |
 | -------------------- | ------------------------------------------------------------ |
 | 1 - 2                | **Survived:** The Character escapes lasting injury and recovers without any negative penalties. |
-| 3 - 4                 | **Shaken:** The Character is pained by their injuries and loss at the hand of the enemy. In the next game in which the character is fielded, they suffere a -1 penalty to their Leadership characteristic. |
-| 4 - 6                | **Battle Scared**: The wounds that the Character have left a lasting effect on them. Proceed to the ***Battle Scar*** section and roll on the table which matches the Character's Unit Type. The Unit then suffers -1 Crusade Points. Note, that a Character may not have the same Battle Scar twice, so reroll all duplicate Battle Scars. |
+| 3 - 4                 | **Shaken:** The Character is pained by their injuries and loss at the hand of the enemy. In the next game in which the character is fielded, they suffer a -1 penalty to their Leadership characteristic. |
+| 4 - 6                | **Battle Scared**: The wounds that the Character have left a lasting effect on them. Proceed to the [***Battle Scar*** section](/Bitter-Conquest/Battle-Scars) and roll on the table which matches the Character's Unit Type. The Unit then suffers -1 Crusade Points. Note, that a Character may not have the same Battle Scar twice, so reroll all duplicate Battle Scars. |
 | 7                    | **Battle Scared** + **Captured:** The Character has been injured beyond the capacity to resist capture and is carried off deep behind enemy lines to be interrogated, tortured, or perhaps executed and their remains used as trophies. The Character's Commander may elect to engage in a [Liberation Mission](/Bitter-Conquest/Special-Liberation) to decide the Character's fate. This must be completed before the end of the current Chapter and the Character cannot be used until after the Mission has been completed. Otherwise, this roll is considered to have resulted in a *Fatality* (see below). |
 | 8 +                  | **Fatality:** The Character has suffered such terrible injuries that they are either slain completely or so badly wounded they are barely alive when they return to the Fleet. If this is the first time the Character has experienced this result, the Commander may elect to have the Character interred into a Cortus-grade Dreadnought Chassis (see Appendix: Upgrades and Artifacts). |
 
@@ -155,68 +157,4 @@ There are three types of Battle Honours that can be grated to any given Unit: **
 
 **Psychic Fortitudes** are otherworldly powers that sorcerers and warp-practitioners gain as they hone and master their psychic skills. Only those with the Psyker, Corrupted, or Daemon Subtype may take this Battle Honour. Units with the Character Sub-Type without the aforementioned Sub-Types may instead attempt to awaken their latent abilities. Each time a Unit gains a Psychic Fortitude, roll one D6 and consult the corresponding table appropriate to the Unit to determine the effects of this Battle Honour.
 
-**Weapon Enhancements** are upgrades made to a warrior's armaments that improve their lethality in combat. Each time a Unit gains a Weapon Enhancement, you must select one model within that Unit and then select one non-artifact weapon equipped by the model to be Enhanced.  Each time a Unit gains a Psychic Fortitude, roll one D6 and consult the corresponding table appropriate to the selected Weapon to determine the effects of this Battle Honour.
-
-# Appendix: Requisition Requests
-
-The following are a general collection of possible Requests that Commanders may spend RP in order to gain access to at the start of a Chapter. Event Organizers may elect to add special Requisition Requests (which may have extra requirements) at any time in order to further expand the narrative of the Campaign.
-
-## Increase Supply Limit (1 RP)
-
-Increase the Crusade Force's Supply Limit by 100 points.
-
-## Access the Armoury (1 RP)
-
-Select a Unit from your Battle Company. The Unit may then select one option from their Fleet's Armoury, making note of the upgrade on the Unit's Roster Card. Coordinate with the Campaign's Event Organizer for a list of possible selections which fit your Battle Company's narrative.
-
-## Birth of a Warlord (1 RP)
-
-Select one model with the Character Sub-Type from a Unit within your Battle Company. If available to the Character, they may gain one Warlord Trait (either from Published sources or Campaign Expansions) which they then mark on their Roster Card. This Warlord Trait is permanent. This Warlord Trait must be one which is available to the Character based on its Faction and Special Rules. A Character model may receive an additional Warlord Trait through this action, but it must choose only one Trait to employ when fielded as a Engagement Force's Warlord. This Warlord Trait is permanent and cannot be removed by any means.
-
-## Fresh Recruits (1 RP for Infantry, 2 RP for Others)
-
-Select one Unit from your Battle Company which has not achieved the Rank of Grizzled or higher. Add any number of additional models to this Unit (up to the maximum listed on its Unit Entry) and increase its points accordingly. Note that this cannot cause the Battle Company to exceed its Supply Limit.
-
-## Beseech the Wisdom of the Ancients (2 RP)
-
-Select one model with the Character Sub-Type from a Unit within your Battle Company. That Character may gain one **Advanced Skill** from the list provided by your Campaign's Event Organizer. 
-
-## Field Promotion (2 RP)
-
-Select a Unit from your Battle Company which has at least achieved the Blooded Rank and has a model with the Character Sub-Type. The Character may be upgraded to the next higher level of their type, if one is available, inheriting the new profile but keeping the previous options. For example, a Legion Consul may be upgraded to a have a Legion Praetor's base profile, but keeps their specialty. Likewise, a Legionnaire Tactical Sargent may be promoted to a Legion Centurion's profile, but remains within his Tactical Squad. Consult with your Campaign's Event Organizer regarding any questions that may arise. Every time a model is promoted in this way, increase its Crusade Points by 2.
-
-## Armament Refitting (1 RP)
-
-Select one Character which has been upgraded via the *Field Promotion* Requisition Request. That model may elect to swap its Minimum Wargear with that of its new Rank's Entry. Doing so increases that Unit's Crusade Points by 1 for each piece of Wargear swapped in this manner.
-
-## Repair and Recuperate (2 RP)
-
-Select one Unit from within your Battle Company that has one or more Battle Scars. Select one of that Unit's Battle Scars and remove it from the Roster Card, ensuring to also remove the -1 modifier to their Crusade Points. 
-
-## Rearm and Resupply (1 RP)
-Unlike other Requisitions, this Order may be purchased at any time. Select one Unit from your Regimental Registry that has a Roster Card. You can change any Wargear Options that models in that unit are equipped with as described on that unit’s profile. You cannot replace a Weapon that a model is equipped with if the Weapon in question has been upgraded by a Weapon Enhancement/Battle Honor/etc.
-
-**Designer's Note:** Remember, you may always pay for the Optional Wargear when you first create a Unit's Roster Card. If you do so, treat it as an additional points cost for the Unit (adding to the Unit's total) for the purposes of determining if you are under your Supply Limit. You may never exceed your Supply Limit for any reason.
-{: .notice--info}
-
-## Even in Death I Still Serve (2 RP)
-Unlike other Requisitions, this Order may be purchased at the Death of a Character -OR- at the beginning of a Chapter. Select a Character which has been removed from the Campaign as a **Fatality*. This Character may be returned to service within a Dreadnought Chassis, replacing its Stat Profile, all Wargear, and any Default Special Rules with that of any of the following base units depending on the Character's Nature:
-  - Astartes Character Options:
-    - Legion Contemptor Dreadnought
-    - Legion Castra Ferrum Dreadnought
-    - Legion Leviathan Dreadnought*
-    - Legion Deredeo Dreadnought
-  - Mechanicum Character Options:
-    - Domitar Battle-Automata Shell
-    - Arlatax Battle-Automata Shell
-  - Questoris Knights Character Option:
-    - Spirit of the Throne*
-  - Custodes Character Option:
-    - Contemptor-Achillus Dreadnought
-  - Silent Sisterhood Character Options
-    - Ancillae Casket
-  - Solar Auxilia Option
-    - The Inheritance of Duty*
-
-**Designer's Note:** Any of the above options marked with a * require a discussion with the EO before a Player may select it as an option.
-{: .notice--info}
+**Weapon Enhancements** are upgrades made to a warrior's armaments that improve their lethality in combat. Each time a Unit gains a Weapon Enhancement, you must select one model within that Unit and then select one non-artifact weapon equipped by the model to be Enhanced.  Each time a Unit gains a Weapon Enhancement, roll one D6 and consult the corresponding table appropriate to the selected Weapon to determine the effects of this Battle Honour.

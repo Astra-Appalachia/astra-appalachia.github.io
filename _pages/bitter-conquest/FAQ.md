@@ -9,7 +9,7 @@ header:
   overlay_filter: "0.25"
   overlay_image: /assets/images/banners/Heresy_SoHBolter.png
 sidebar:
-  nav: Campaign2023
+  nav: BitterConquest
 ---
 
 The following are questions fielded by players during the 2023 Narrative Campaign, The Sierra Conflict. It is not an exhaustive list and will be updated frequently.

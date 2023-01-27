@@ -65,8 +65,6 @@ The Pursuers have the First Game Turn; their opponent, the Relic Hunters, may at
 
 ## Game Length
 
-## Game Length
-
 After five turns, roll a D6. On a 4+, a sixth and final turn is played.
 
 **"Wipe Out!":** Regardless of any other condition, if at the end of the game your enemy has no units left on the table then you are victorious!

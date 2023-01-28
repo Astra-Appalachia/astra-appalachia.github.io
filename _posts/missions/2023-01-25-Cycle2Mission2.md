@@ -4,7 +4,7 @@ toc: false
 title: Void Warfare
 date: 2023-01-27 15:00:00
 permalink: /Campaigns/2023/Cycle2-Mission2
-excerpt: "An asteroid floats in the void, abandoned by the local Mechanicum sect at the outbreak of the Heresy ..." 
+excerpt: "A chance encounter with an enemy ship brings about an opportunity that cannot be missed." 
 author: Joe Glaser
 tags: [missions, cycle2]
 taxonomy: BITV

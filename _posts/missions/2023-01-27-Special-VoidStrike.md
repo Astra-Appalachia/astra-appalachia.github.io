@@ -5,7 +5,7 @@ date: 2023-01-13 19:00:00
 permalink: /Bitter-Conquest/Blood-in-the-Void/VoidStrike
 excerpt: "Ready the Boarding torpedoes, we'll take that ship ..." 
 author: Joe Glaser
-tags: [missions, cycle2, special, BITV]
+tags: [missions, special, BITV]
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
@@ -14,21 +14,21 @@ header:
   teaser: /assets/images/banners/Heresy_IFTakeAim.png
 ---
 
-*"A dozen Legionaries fell to take that tower, and twice that number were grievously wounded. But take it we did, and in doing so, secured not only it, but a sector, a city, a peninsular and, at great length, an entire world."*
+*"We are future memories. When our flesh is dust and our dreams faded we will be ghosts living in a land of legends, made real only by the memories of others. What we take with us into that realm of the dead, what we are remembered for, that will be the truth of our lives."*
 {: .text-center}
 
-Unknown Legionary Captain <br> Legiones Astartes Imperial Fists
+Solomon Voss<br> _The Edge of Illumination_
 {: .text-right}
 
 ## The Armies
 
-For this mission, all Commanders should compose an *Engagement Force* from their *Battle Company's Regimental Registry*, adding any additional *Conscripts* to their armies from the list of approved Horus Heresy publications provided by the Event Organizer (EO). The total points cost of the Engagement Force should not exceed 1,000 Points.
+For this mission, all Commanders should compose an *Engagement Force* from their *Battle Company's Regimental Registry*, adding any additional *Conscripts* to their armies from the list of approved Horus Heresy publications provided by the Event Organizer (EO). The total points cost of the Engagement Force should not exceed 1,500 Points.
 
 ## The Battlefield
 
-The playable area is defined as a 3' x 3' square area, or a total of 9 square feet in a custom orientation. The interior of the vessel is a tangled labyrinth of passageways and chambers, and should be represented appropriately. If you are using Game Workshop's _Zone Mortalis Complex_ terrain boards, then they may be laid out in an agreed fashion or, alternatively, the players may take turns placing tiles and walls so that they take up the playing area, making sure that each table edge has at least one clear entry/exit point per player.
+The playable area is defined as a 4' x 4' square area, or a total of 16 square feet in a custom orientation. The interior of the vessel is a tangled labyrinth of passageways and chambers, and should be represented appropriately. If you are using Game Workshop's _Zone Mortalis Complex_ terrain boards, then they may be laid out in an agreed fashion or, alternatively, the players may take turns placing tiles and walls so that they take up the playing area, making sure that each table edge has at least one clear entry/exit point per player.
 
-## Deployment (The High Ground)
+## Deployment (Void Insertion)
 
 Before the game begins, both sides should divide their forces into two roughly equal forces based on their number of units. 
 
@@ -41,12 +41,11 @@ The other player then rolls a D6. On a roll of a 4+, they may choose any of the 
 When the Attacking side's reserves become available, they enter play from the Attacker's table edge. The Defending side's reserves arrive from any other table edge. 
 
 
-{% include figure image_path="/assets/images/maps/Deployment_HighGround.png" alt="Deployment Map for the High Ground Mission Type." caption="*Credit: The Hours Heresy Book 4, Games Workshop Limited*" %}
+{% include figure image_path="/assets/images/maps/Deployment_VoidStrike.png" alt="Deployment Map for the _Void Strike_ Mission Type." caption="*Credit: The Hours Heresy Book 3, Games Workshop Limited*" %}
 
 ## Special Rules
 
 Zone Mortalis, Reserves
-
 
 ## First Turn
 
@@ -73,10 +72,6 @@ In addition, each side gains a Victory point for each Units with the Line subtyp
 
 - Slay the Warlord
 - First Blood
-
-### Fruits of Victory
-
-If the Victorious Player is in control of the Headquarters and Tighten the Noose is not in effect, speak with the EO regarding the type of Headquarters being held for a unique reward. If the Victorious Player is **NOT** in control of the Headquarters, they may select two Units from their Engagement Force to be *Marked for Greatness* instead of one.
 
 **Mission Debriefs:** After you finish playing the above mission, ensure that one of the Commanders logs it in our system via the following Google form: [https://forms.gle/gFNQJEq2UKnNqBV58](https://forms.gle/gFNQJEq2UKnNqBV58).
 {: .notice--primary}

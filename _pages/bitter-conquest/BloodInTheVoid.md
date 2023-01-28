@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: tag
 title: "_Blood in the Void_ Expansion"
 toc: true
 permalink: /Bitter-Conquest/Blood-in-the-Void
@@ -7,6 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /assets/images/banners/Heresy_StandingArmy.png
+taxonomy: BITV
 sidebar:
   nav: BitterConquest
 ---
@@ -108,3 +109,7 @@ When conducting a "Hit & Run" against a battleship-sized warship, seven Boarding
 - **Mission 5:** _Wrecking Mission_ (Goal: _Life Sustainers_)
 - **Mission 6:** _Wrecking Mission_ (Goal: _Ship's Bridge_)
 - **Mission 7:** _Salvation_
+
+---
+
+## Mission Compendium

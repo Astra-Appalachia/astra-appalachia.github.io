@@ -42,7 +42,12 @@ The Pursuers' board edge is the one opposite the Relic Hunters', which the Pursu
 
 ## Special Rules
 
-Reserves, Night Fighting, Location Unknown, Cold Void
+Reserves, Rapid Rotation, Location Unknown, Cold Void
+
+## Rapid Rotation
+
+Instead of the usual _Night Fighting_ special rule, the asteroid's rotation axis in the deep void of space has its illumination changing at a rapid pace. Commanders must roll a D6 before the first Game Turn. On a resulting roll of a 4+, _Night Fighting_ is active for every **odd** Game Turn (1, 3, 5). Otherwise, it is instead active starting on every **even** Game Turn (2, 4, 6).
+
 
 ### Location Unknown
 

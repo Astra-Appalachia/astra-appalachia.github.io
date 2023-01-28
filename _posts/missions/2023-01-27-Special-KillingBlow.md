@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "_Blood in the Void_: Killing Blow"
-date: 2023-01-25 19:00:00
+date: 2023-01-27 20:00:00
 permalink: /Bitter-Conquest/Blood-in-the-Void/KillingBlow
 excerpt: "Why battle through the corridors of a vessel when you can burn through its hull?"
 author: Joe Glaser

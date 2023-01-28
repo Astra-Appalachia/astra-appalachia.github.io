@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "_Blood in the Void_: Salvation"
-date: 2023-01-25 19:00:00
+date: 2023-01-27 10:00:00
 permalink: /Bitter-Conquest/Blood-in-the-Void/Salvation
 excerpt: "Now inside the ship, its time to cripple it."
 author: Joe Glaser

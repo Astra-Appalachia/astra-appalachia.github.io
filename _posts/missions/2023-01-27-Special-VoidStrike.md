@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "_Blood in the Void_: Void Strike"
-date: 2023-01-13 19:00:00
+date: 2023-01-27 09:00:00
 permalink: /Bitter-Conquest/Blood-in-the-Void/VoidStrike
 excerpt: "Ready the Boarding torpedoes, we'll take that ship ..." 
 author: Joe Glaser

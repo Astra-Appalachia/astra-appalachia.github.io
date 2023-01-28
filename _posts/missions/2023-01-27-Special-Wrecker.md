@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "_Blood in the Void_: Wrecker"
-date: 2023-01-25 19:00:00
+date: 2023-01-27 09:30:00
 permalink: /Bitter-Conquest/Blood-in-the-Void/Wrecker
 excerpt: "Now inside the ship, its time to cripple it."
 author: Joe Glaser

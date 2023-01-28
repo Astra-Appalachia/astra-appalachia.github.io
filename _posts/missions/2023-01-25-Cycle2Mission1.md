@@ -59,7 +59,7 @@ When only a single Objective remains and the relic has yet to be discovered, the
 
 ### Cold Void
 When this special rule is in effect, the following conditions apply to the region:
-  - All weapons and attacks with a Strength of 6 or higher now cause _Shred_, unless their target has the _Heavy_ Subtype or has an Armour/Cover Save of 2+. In the case of attacks against mixed units, any _Rending_ Wounds must be applied to the more vulnerable targets first (those in which are not immune to the effects).
+  - All weapons and attacks with a Strength of 6 or higher now cause _Shred_, unless their target has the _Heavy_ Subtype or has an Armour/Cover Save of 2+.
   - Weapons and attacks which have the Blast special rule also now cause _Pinning_ if they did not already.
 
 ## First Turn

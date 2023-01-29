@@ -30,11 +30,30 @@ Commanders should either mutually agree -OR- roll off to see which side will be 
 
 ## Plan of Action
 
-The time has come to take the conflict to the enemy! This mission comprises of Commanders deciding one of two courses of action. They may either:
-  - Conduct a _Boarding Assault_ game series against the Defender's [Escort Frigate](Bitter-Conquest/Blood-in-the-Void#target-escort-frigate)
+The time has come to take the conflict directly to the enemy's doorstep! This mission comprises of Commanders deciding one of two courses of action. They may either:
+  - Conduct a _Boarding Assault_ game series against the Defender's Escort Frigate (see below)
   - Conduct a [_Killing Blow_](/Bitter-Conquest/Blood-in-the-Void/KillingBlow) against one of the Defender's Cruisers.
 
-Commanders should proceed through the required missions; submitting [Mission Debrief]((https://forms.gle/gFNQJEq2UKnNqBV58)) reports after each one. You can find the collection of the above mentioned missions at the end of this article.
+**Designer's Note:** Regardless of the number of _Engagements_ (aka, games) played during the above choice, a Commander may only be awarded RP from the _Fruits of Victory_ listed below.
+{: .notice--primary}
+
+Commanders should remember to submit one [Mission Debrief]((https://forms.gle/gFNQJEq2UKnNqBV58)) for each _Engagement_ undertaken, based on the choice above. 
+
+All missions will played will have the following rulesets active for the full duration:
+  - Zone Mortalis core ruleset ([found here](https://drive.google.com/file/d/1WQDUWdgltW9QsNQEVFkxYnxluOtCZ7vw/view?usp=share_link))
+  - [_Blood in the Void_](/Bitter-Conquest/Blood-in-the-Void) Expansion
+
+### Target: Escort Frigate
+When conducting a "Hit & Run" against an escort-sized warship, three Boarding Assault missions are played:
+- **Mission 1:** [_Void Strike_](/Bitter-Conquest/Blood-in-the-Void/VoidStrike)
+- **Mission 2:** [_Wrecking Mission_](/Bitter-Conquest/Blood-in-the-Void/Wrecker)
+  - Roll a D6 for the Mission Goal ...
+    - Result of 1-2 --> _Drives_
+    - Result of 3 --> _Augur Arrays_
+    - Result of 4 --> _Weapon Batteries_
+    - Result of 5 --> _Life Sustainers_
+    - Result of 6 --> _Ship's Bridge_
+- **Mission 3:** [_Salvation_](/Bitter-Conquest/Blood-in-the-Void/Salvation)
 
 ## Fruits of Victory
 Due to the extremely variable nature of outcomes from this mission, the _Fruits of Victory_ vary dramatically. However, to honour the time commitment which is required for such actions, each player is awarded 5 RP for completing the _Boarding Assault_, with the overall Victor able to pick a result the Generic _Fruits of Victory_ table.

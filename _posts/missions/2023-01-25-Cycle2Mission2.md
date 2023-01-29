@@ -34,7 +34,7 @@ The time has come to take the conflict directly to the enemy's doorstep! This mi
   - Conduct a _Boarding Assault_ game series against the Defender's Escort Frigate (see below)
   - Conduct a [_Killing Blow_](/Bitter-Conquest/Blood-in-the-Void/KillingBlow) against one of the Defender's Cruisers.
 
-**Designer's Note:** Regardless of the number of _Engagements_ (aka, games) played during the above choice, a Commander may only be awarded RP from the _Fruits of Victory_ listed below.
+**Designer's Note:** Regardless of the number of _Engagements_ (aka, games) played during the above choice, a Commander may only be awarded RP from the _Fruits of Victory_ listed below. However, they do gain XP as normal from each _Engagement_ they participate in as normal. Additionally, this _Mission_ counts for one of the two per Cycle permitted, regardless of how many _Engagements_ take place.
 {: .notice--primary}
 
 Commanders should remember to submit one [Mission Debrief]((https://forms.gle/gFNQJEq2UKnNqBV58)) for each _Engagement_ undertaken, based on the choice above. 

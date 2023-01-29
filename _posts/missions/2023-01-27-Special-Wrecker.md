@@ -45,11 +45,13 @@ When the Attacking side's reserves become available, they enter play from the At
 
 ## Special Rules
 
-Zone Mortalis, Reserves, Tactically Secured
+Zone Mortalis, Reserves, Tactically Secured, Superstructure Failure
 
 ### Tactically Secured
 In this Zone Mortalis Boarding Assault mission, units drawn from either the _Troops_ or _Elites_ allowance count as scoring units where this is called for by the mission. A unit may only ever claim one Objective at a time. 
 
+### Superstructure Failure
+After the first Mission Goal has been destroyed (if possible), the _Catastrophic Damage_ special rule goes into effect. For each Goal Objective destroyed in the current game, increase each roll on the _Catastrophic Damage_ table by 1.
 
 ## First Turn
 
@@ -85,7 +87,7 @@ _A warship's drives are a prime target for any boarding assault mission, the att
 
 The Attacker's goal is to destroy a number of vital drive components and thus bring the warship's mighty engines to a shuddering halt. The Defender identifies D3+2 Zone Mortalis board sections, and within each places a single objective marker representing a vital command terminal, plasma valve or power conduit. These markers should be placed as close to the centre of the board section, or one of its sub-chambers if appropriate, as possible. They may not be placed in impassable terrain or in such a way as to block a corridor or access point. 
 
->**Cascade Failure:** When an objective marker is destroyed, roll a 06. On a 6, it explodes with the same effect as rolling a 6 on the Vehicle Damage table. Furthermore, roll a D6 for the next closest objective marker. On a 6, that objective marker explodes too. Keep rolling for each objective marker in this way, until one does not explode or no more remain. 
+>**Cascade Failure:** When an objective marker is destroyed, roll a D6. On a 6, it explodes with the same effect as rolling a 6 on the Vehicle Damage table. Furthermore, roll a D6 for the next closest objective marker. On a 6, that objective marker explodes too. Keep rolling for each objective marker in this way, until one does not explode or no more remain. 
 
 ### Primary Objective
 At the end of the game, the Attackers gain 1 Victory point for each objective destroyed, and the Defenders gain 1 Victory point for each objective still on the table. The side with the most Victory points is the victor. 

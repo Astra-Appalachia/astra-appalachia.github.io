@@ -36,6 +36,10 @@ When fighting on a ship's outer hull, the _Cold Void_ special rules are always i
 >  - Weapons and attacks which have the Blast special rule also now cause _Pinning_ if they did not already.
 
 ### Catastrophic Damage Table
+Most boarding actions take place against the backdrop of a fierce void battle in which immensely destructive forces quite beyond the combatants' control are unleashed that may even destroy the very ship through which they are fighting. Even when the boarded ship is not taking direct hits in the battle, the effects of prior damage can cause secondary explosions to rip through its hull or the vessel itself may be caught in a crossfire or ride through the blast waves of dying ships and lethalJy spinning debris. 
+
+These effects are represented in the game by the _Blood in the Void - Catastrophic Damage_ table (shown below). When the _Catastrophic Damage_ special rule is in effect, in every turn after the first, each player should roll a D6 each at the beginning of the turn. Add the scores together and apply the results on the _Catastrophic Damage_ chart on the next page. In addition, if any weapon with the _Ordnance_ special rule has been used on the preceding turn, add +1 to the total. Note, that this special rule brings a hugely unpredictable (and enjoyably dangerous) element to your games, and should be treated as such.
+
 
 | 2D6 Result | Name                | Description                                                  |
 | ---------- | ------------------- | ------------------------------------------------------------ |

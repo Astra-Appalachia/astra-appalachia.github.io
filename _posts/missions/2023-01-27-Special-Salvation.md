@@ -43,7 +43,7 @@ Reserves arrive normally, each unit entering the board from any table edge the c
 Zone Mortalis, Reserves, Death of a Behemoth
 
 ### Death of a Behemoth
-If this mission is being fought as the final game in a Hit & Run series of games and the Attacker has the most Boarding points, the ship is in flames and already breaking apart as it spews debris, plasma and voidsmen out into space. When rolling on the _Blood in the Void_ Catastrophic Damage table, add the Game Turn number to the result.
+If this mission is being fought as the final game in a Hit & Run series of games and the Attacker has the most Boarding points, the ship is in flames and already breaking apart as it spews debris, plasma and voidsmen out into space. The effects of the _Catastrophic Damage_ special rule are in effect for the entirety of the game. When rolling on the _Blood in the Void_ Catastrophic Damage table, add the Game Turn number to the result.
 
 In addition, all Infantry models in the side with the highest number of Boarding points go into this mission with the Fleet and Fearless special rules.
 

@@ -30,7 +30,7 @@ Commanders should roll off to see which side will be the "Relic Hunters" and whi
 
 Terrain will be set up to mimic a mining outpost formerly maintained and manned by a local Mechanicum sect. As such, armoured containers, servo-haulers, piping, diggers, and other pieces of the Sector Mechanicus terrain set should be used.
 
-After the terrain is placed, but before any forces are deployed, players take turns placing five Objective markers, represented by markers 1" in diameter. These markers should be placed in accordance with the normal rules for Placing Objective Markers in the _Age of Darkness_ Core Rulebook.
+After the terrain is placed, but before any forces are deployed, players take turns placing five Objective markers, represented by markers 1" in diameter. These markers should be placed in accordance with the normal rules for Placing Objective Markers in the _Age of Darkness_ Core Rulebook. However, they may NOT be placed in a Commander's Deployment Zone unless there is either no other place to put it -OR- it Scatters into one.
 
 ## Deployment (Reliquary)
 

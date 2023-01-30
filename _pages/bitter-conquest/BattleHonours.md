@@ -17,9 +17,9 @@ sidebar:
 
 | D6   | Name                | Description                                                  | CP Cost |
 | ---- | ------------------- | ------------------------------------------------------------ | ------- |
-| 1    | Swift & Agile       | The Unit gains the *Crusader* special rule.                  | 4       |
+| 1    | Swift & Agile       | The Unit gains the *Crusader* special rule. If the Unit cannot benefit from this special rule, roll again on this table.                 | 4       |
 | 2    | Veteran's Fury      | The Unit gains the *Hatred (Loyalist / Traitor)* special rule, whichever is the opposite of their own allegiance. | 4       |
-| 3    | Independent Actions | The Unit gains the *Split Fire* special rule.                | 2       |
+| 3    | Independent Actions | Each model in the Unit may fire at different targets, declared when the Unit is activated to make Shooting attacks. At no point may a target chosen by this be a Unit forced to Disembark as a result of this Unit’s initial Shooting Attack.                | 2       |
 | 4    | Tactical Expertise  | The Unit gains the *Line* special rule. In addition, they gain *Counter-Attack (2)* when within 6" of an Objective. | 4       |
 | 5    | Cool-Headed         | The Unit may has its lowest *Leadership* Characteristic increased by 1. | 2       |
 | 6    | Apex Predator       | The Commander may choose to either increase the *WS* or *BS* Characteristics by 1 for the Profile with the lowest Characteristic. The Characteristics cannot be increased by more than *WS* 5 and *BS* 6. | 8       |

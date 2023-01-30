@@ -79,7 +79,7 @@ Depending on the model type chosen for the Enhancement, make the appropriate rol
 | ----- | ------------------------- | ------------------------------------------------------------ | ------- |
 | 1     | Heirloom                  | The weapon gains the *Master-crafted* special rule. If it already has this special rule, the weapon may re-roll two separate dice instead of one as normal. | 2       |
 | 2     | Enhanced Shock Field      | The weapon gains the Deflagrate special rule. If the weapon already has this rule, they instead generate 2 more additional automatic Hits for every unsaved Wound caused by this weapon. | 6       |
-| 3     | Finely Balanced           | The weapon grants an additional Attack at double the User's *Initiative* (or at the User's *Initiative* if the weapon is *Unwieldly*). | 4       |
+| 3     | Finely Balanced           | The weapon grants a single additional Attack at the User's base *Initiative*  (or at *Initiative* 2 if the weapon is *Unwieldly*). | 4       |
 | 4     | Holographic Imprints      | Due to its disorienting appearance, the weapon grants the *Concussive (2)* special rule. | 4       |
 | 5     | Ejecting Mag-Lock Holster | The weapon grants the *Duelist Edge (1)* special rule. If the weapon already has this special rule, it is increased by +1. | 4       |
 | 6     | Baneful Infusion          | The weapon gains the *Poisoned (4+)* special rule, however maintaining its natural *Strength* characteristic for targets who would by *Wounded* on less than a 4+. | 6       |

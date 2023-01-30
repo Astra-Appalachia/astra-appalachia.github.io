@@ -35,7 +35,7 @@ The following Roll Tables indicate the various types of *Battle Scars* a Charact
 | 5         | Compromised Chassis    | Reduce the Unit's *Hull Points* characteristic by 1 if it has a Front-Facing AV < 14 or 2 for all other cases. |
 | 6         | Angered Machine Spirit | At the start of its Movement Phase, roll a D6. If the result is a 1, the Unit cannot move and can only fire Snap Shops with its Battle Weapons (Defensive Weapons can fire normally). If this Unit is a Flyer, instead of not moving, it moves the minimum distance allowed in a straight line. This effect lasts unit the Player's Next Turn. |
 
-## Dreadnoughts / Automata
+## Dreadnoughts / Armiger / Automata
 
 | D6 Result | Name                     | Description                                                  |
 | --------- | ------------------------ | ------------------------------------------------------------ |

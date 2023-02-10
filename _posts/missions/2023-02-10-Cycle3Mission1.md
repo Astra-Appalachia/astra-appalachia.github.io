@@ -39,8 +39,6 @@ Four Arming Device Objectives are also placed after the Monolith Objective has b
 
 This Exemplary Mission uses the *Hammer and Anvil* Deployment Map from the *Warhammer: The Horus Heresy – Age of Darkness Rulebook*, with the Defender selecting a Deployment Zone first and then the Attacker deploying first in the remaining Deployment Zone. 
 
-Before beginning their deployment, the Attacker must split their force into two sections – the *Vanguard* and *Assault Force*. The Assault Force must contain all *Heavy Support*, *Lords of War* and *Elites* choices, whilst all *Troops* and *Fast Attack* choices must be placed into the Vanguard. Any *HQ* choices in the Attacker’s army may be placed into either section. The Vanguard is deployed onto the battlefield normally, while the Assault Force must be placed into Reserves. Once the Attacker has deployed all models in their Vanguard, the Defender deploys their entire army as they would normally.
-
 ## Special Rules
 
 *Reserves*, *In the Light of the Widow*, *Secrets of the Forge*, *Sudden Death*, *Technical Expertise*

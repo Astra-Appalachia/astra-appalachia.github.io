@@ -6,7 +6,7 @@ date: 2023-01-27 15:00:00
 permalink: /Campaigns/2023/Cycle2-Mission2
 excerpt: "A chance encounter with an enemy ship brings about an opportunity that cannot be missed." 
 author: Joe Glaser
-tags: [missions, cycle2]
+tags: [missions, cycle2, cycle3]
 taxonomy: BITV
 header:
   overlay_color: "#000"

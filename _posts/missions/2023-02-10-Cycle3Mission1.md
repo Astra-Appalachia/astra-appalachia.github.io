@@ -81,7 +81,6 @@ Victory in this mission is decided by the capture and control of Objectives. Thi
 
 - **Monolith Objective** – If the Defender controls this Objective at the end of their Player Turn, they gain D3+1 Victory points. If the Attacker controls it then they score no Victory points, but stop the Defender from gaining any. 
 - **Arming Device Objective** – If the Defender controls one of these Objectives at the end of their Player Turn then they gain 1 Victory point. If the Attacker controls one of these Objectives at the end of their Player Turn they may choose to either score no Victory points, but destroy the Objective and remove it from play, or they may score D3 Victory points.
-- Archeotechno Magos – Whichever player is in control of the Monolith Objective while the 
 
 At the end of the battle, if the Defender has a higher total of Victory points then the secrets of the Monolith have been decoded and is destroyed, securing victory for the Defender. If the Attacker has a higher total of Victory points then the Monolith is preserved does not detonate, allowing the Attacker to gain some understanding as they secure the area. 
 

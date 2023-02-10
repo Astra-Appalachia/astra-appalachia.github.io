@@ -90,3 +90,6 @@ Players may not score Victory points for any Secondary Objectives (or any specia
 
 If the Monolith Objective is in the control of a Unit with the *Line* subtype which is owned by the Winner, they are awarded a third of their Victory points as RP (rounding down). Should the Archeotechno Magos survive the mission, whomever controls the Monolith Objective (and thus holds their loyalty) should speak with the EO.
 
+**Mission Debriefs:** After you finish playing the above mission, ensure that one of the Commanders logs it in our system via the following Google form: [https://forms.gle/gFNQJEq2UKnNqBV58](https://forms.gle/gFNQJEq2UKnNqBV58).
+{: .notice--primary}
+

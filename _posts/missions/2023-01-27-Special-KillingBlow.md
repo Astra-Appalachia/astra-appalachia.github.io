@@ -38,7 +38,7 @@ An objective marker representing the point at which the attackers are attempting
 
 The Defender places any Fortifications chosen anywhere on the table outside of 18" of the centre point. However, these may not be occupied and their weapons are always fired in the _Automated Fire_ mode. The remainder of the Defender's army enters play from reserve. When available, each unit enters play from a randomly determined table edge (roll a Scatter dice for each arriving unit, the arrow indicating which table edge is used).
 
-{% include figure image_path="/assets/images/maps/Deployment_KillingBlow.png" alt="Deployment Map for the _Killing Blow_ Mission Type." caption="*Credit: The Hours Heresy Book 3, Games Workshop Limited*" %}
+{% include figure image_path="/assets/images/maps/Deployment_KillingBlow.png" alt="Deployment Map for the _Killing Blow_ Mission Type." caption="*Credit: The Horus Heresy Book 3, Games Workshop Limited*" %}
 
 ## Special Rules
 

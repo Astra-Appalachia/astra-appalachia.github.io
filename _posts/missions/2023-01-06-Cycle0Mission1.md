@@ -39,7 +39,7 @@ The Defender may deploy their units anywhere on the table. Meanwhile, the Raider
 
 Once the Defender has finished deploying, the Raider chooses three drop points as noted in the accompanying Deployment Map, ensuring these points are at least 12" away from any enemy models if possible. If it is not possible, then they may choose to either not place one or more of their counters (with that point's models placed in Ongoing Reserves) OR place one or more drop points within 6" of any enemy models, but none of the Raider's models may be deployed within 3" of any enemy model under any circumstance. If there is not enough room on the Table, these models are automatically placed in: Outflank for Calvary, Walkers, or Vehicles; Deep Strike for Infantry; Ongoing Reserves for all other model types.
 
-{% include figure image_path="/assets/images/maps/Deployment_CombatDrop.png" alt="Deployment Map for the Combat Drop Mission Type." caption="*Credit: The Hours Heresy Book 4, Games Workshop Limited*" %}
+{% include figure image_path="/assets/images/maps/Deployment_CombatDrop.png" alt="Deployment Map for the Combat Drop Mission Type." caption="*Credit: The Horus Heresy Book 4, Games Workshop Limited*" %}
 
 ## Special Rules
 

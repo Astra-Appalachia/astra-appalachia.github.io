@@ -47,7 +47,7 @@ The Attacker then deploys their army in the areas indicated on the Deployment Ma
 **Designer's Note:** For Zone Mortalis Board Sizes, keep in the narrative spirit of the below Deployment Map, attempting to preserve Deployment Zone shapes and distance ratios where possible.
 {: .notice--primary}
 
-{% include figure image_path="/assets/images/maps/Deployment_Liberation.png" alt="Deployment Map for the Liberation Mission Type." caption="*Credit: The Hours Heresy Book 4, Games Workshop Limited*" %}
+{% include figure image_path="/assets/images/maps/Deployment_Liberation.png" alt="Deployment Map for the Liberation Mission Type." caption="*Credit: The Horus Heresy Book 4, Games Workshop Limited*" %}
 
 ## Special Rules
 

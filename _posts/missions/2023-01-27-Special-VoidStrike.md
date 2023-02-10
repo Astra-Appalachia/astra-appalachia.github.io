@@ -41,7 +41,7 @@ The other player then rolls a D6. On a roll of a 4+, they may choose any of the 
 When the Attacking side's reserves become available, they enter play from the Attacker's table edge. The Defending side's reserves arrive from any other table edge. 
 
 
-{% include figure image_path="/assets/images/maps/Deployment_VoidStrike.png" alt="Deployment Map for the _Void Strike_ Mission Type." caption="*Credit: The Hours Heresy Book 3, Games Workshop Limited*" %}
+{% include figure image_path="/assets/images/maps/Deployment_VoidStrike.png" alt="Deployment Map for the _Void Strike_ Mission Type." caption="*Credit: The Horus Heresy Book 3, Games Workshop Limited*" %}
 
 ## Special Rules
 

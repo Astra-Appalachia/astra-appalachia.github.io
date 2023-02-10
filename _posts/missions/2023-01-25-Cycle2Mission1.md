@@ -38,7 +38,7 @@ The Relic Hunters Commander must select a long board edge as their own board edg
 
 The Pursuers' board edge is the one opposite the Relic Hunters', which the Pursuers' now deploy within their alloted Deployment Zone. Any Unit that cannot be deployed due to spacing constraints should be placed in Reserves.
 
-{% include figure image_path="/assets/images/maps/Deployment_Reliquary.png" alt="Deployment Map for the Outpost Sacking Mission Type." caption="*Credit: The Hours Heresy Book 4, Games Workshop Limited*" %}
+{% include figure image_path="/assets/images/maps/Deployment_Reliquary.png" alt="Deployment Map for the Outpost Sacking Mission Type." caption="*Credit: The Horus Heresy Book 4, Games Workshop Limited*" %}
 
 ## Special Rules
 

@@ -36,7 +36,7 @@ The gaming table is divided into quarters, and both players roll off to choose a
 
 Reserves arrive normally, each unit entering the board from any table edge the controlling player wishes.
 
-{% include figure image_path="/assets/images/maps/Deployment_Salvation.png" alt="Deployment Map for the _Salvation_ Mission Type." caption="*Credit: The Hours Heresy Book 3, Games Workshop Limited*" %}
+{% include figure image_path="/assets/images/maps/Deployment_Salvation.png" alt="Deployment Map for the _Salvation_ Mission Type." caption="*Credit: The Horus Heresy Book 3, Games Workshop Limited*" %}
 
 ## Special Rules
 

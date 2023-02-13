@@ -69,11 +69,15 @@ When two or more Engagement Forces battle one another, it is likely that at leas
 These rerolls may only be used on your own Engagement Force or gifted to an Allied Commander fielded with you at the beginning of a their Player Turn. Rerolls gained in this manner may only be used in the following way (one reroll per physical die result unless stated otherwise):
 
 - To Hit & To Wound Rolls
-- Damage Mitigation Rolls
+- Damage Mitigation Rolls (Only for 5+ or Worse)
 - Charges (Reroll Both Dice)
+- Scatter (Reroll Both Distance Dice Only)
 - Leadership & Initiative Tests (Reroll Both Dice)
 
 If a specific physical die is rerolled through any other Special Rule, you may NOT use a reroll gained by this Special Rule to roll the same physical die again. 
+
+**Author's Note:** You may never use rerolls gained from the above section for the purposes of determining Victory Points, Variable Objectives, Reserves, Night Fighting, Seize the Initiative, or any other special rules dictated by the mission. You may ONLY use these rerolls for the options listed above with no exceptions.
+{: .notice--primary}
 
 ## Undertaking Agendas
 

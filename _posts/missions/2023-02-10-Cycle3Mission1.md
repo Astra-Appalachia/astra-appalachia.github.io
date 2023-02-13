@@ -78,13 +78,13 @@ The battle lasts for four Game Turns. At the end of the fourth turn the player w
 Victory in this mission is decided by the capture and control of Objectives. This mission uses a single Monolith Objective, and four Arming Device Objectives all of which have different effects on the Victory point total of both players: 
 
 - **Monolith Objective** – If the Defender controls this Objective at the end of their Player Turn, they gain D3+1 Victory points. If the Attacker controls it then they score no Victory points, but stop the Defender from gaining any. 
-- **Arming Device Objective** – If the Defender controls one of these Objectives at the end of their Player Turn then they gain 1 Victory point. If the Attacker controls one of these Objectives at the end of their Player Turn they may choose to either score no Victory points, but destroy the Objective and remove it from play, or they may score D3 Victory points.
+- **Arming Device Objective** – If the Defender controls one of these Objectives at the end of their Player Turn then they gain 2 Victory points. If the Attacker controls one of these Objectives at the end of their Player Turn they may choose to either score no Victory points, but destroy the Objective and remove it from play, or they may score D3 Victory points.
 
 At the end of the battle, if the Defender has a higher total of Victory points then the secrets of the Monolith have been decoded and is destroyed, securing victory for the Defender. If the Attacker has a higher total of Victory points then the Monolith is preserved does not detonate, allowing the Attacker to gain some understanding as they secure the area. 
 
 ### Secondary Objectives
 
-Players may not score Victory points for any Secondary Objectives (or any special Objectives granted by other special rules, Warlord Traits or Rites of War) EXCEPT **Slay the Warlord**, which awards 1 Victory Point.
+Players may not score Victory points for any Secondary Objectives (or any special Objectives granted by other special rules, Warlord Traits or Rites of War) EXCEPT **Slay the Warlord**, which awards 1 Victory Point, and **Overrun**, which awards 1 Victory Point for Player Turn in which one or more Units are reduced by 25% of its remaining model count.
 
 ### Fruits of Victory
 

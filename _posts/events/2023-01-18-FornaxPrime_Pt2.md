@@ -1,11 +1,11 @@
 ---
-layout: single
+layout: wide
 title: |
   Treachery at Fornax Prime, Part 2
 permalink: /Events/2023/FornaxPrime_Part2
 excerpt: |
   "Embroiled in Treachery, forge your army's own path to victory in this
-  narrative-centric, full-day event filled with fun that only 30K can deliever!" 
+  narrative-centric, full-day event filled with fun that only 30K can deliver!" 
 author: Joe Glaser
 tag: events
 event_date: 2023-02-25 10:00:00
@@ -13,7 +13,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/banners/Heresy_BurningPlanet.png
-  show_overlay_excerpt: False
+  show_overlay_excerpt: True
   teaser: /assets/images/banners/Heresy_BurningPlanet.png
 ---
 
@@ -21,6 +21,7 @@ header:
 
 ```
 +++++++ TRANSMISSION DATED 2.153.009.M31 TERRAN STANDARD +++++++
+```
 
 The Galaxy is burning and with it, my Home.
 
@@ -67,6 +68,7 @@ knows no fear ...
 
 Aldric Von Kingston, Archivist
 
+```
 ++++++++ TRANSMISSION TERMINATED +++++++
 ```
 

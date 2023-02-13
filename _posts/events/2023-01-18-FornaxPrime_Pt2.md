@@ -1,5 +1,6 @@
 ---
-layout: wide
+layout: single
+classes: wide
 title: |
   Treachery at Fornax Prime, Part 2
 permalink: /Events/2023/FornaxPrime_Part2
@@ -20,8 +21,7 @@ header:
 ## Narrative Primer
 
 ```
-+++++++ TRANSMISSION DATED 2.153.009.M31 TERRAN STANDARD +++++++
-```
++++++ TRANSMISSION DATED 2.153.009.M31 TERRAN STANDARD +++++
 
 The Galaxy is burning and with it, my Home.
 
@@ -68,8 +68,7 @@ knows no fear ...
 
 Aldric Von Kingston, Archivist
 
-```
-++++++++ TRANSMISSION TERMINATED +++++++
+++++++ TRANSMISSION TERMINATED +++++
 ```
 
 ## Event Overview

@@ -150,6 +150,7 @@ If a unit has accrued enough XP, it will gain a promotion and go up a ***Rank***
 |          81+           |  Legendary   |           4            |
 
 **Author's Note:** To calculate the amount of points a single model is worth, simply divide the number of points for the base unit plus any addition optional models by the total number of models. If a Model has taken any Additional Equipment or Special Rules as detailed in their Profile, add the Point Value of each upgrade to the individual Points Value (PV) for that Model. 
+{: .notice--primary}
 
 Model's PV = {[(Base Unit PV) + (Additional Models's PV)] / (Number of Models in the Unit)} + (PV of Additional Equipment on Model)
 {: .notice--primary}

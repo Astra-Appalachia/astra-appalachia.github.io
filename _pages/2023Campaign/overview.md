@@ -37,11 +37,18 @@ Each Battle Company may only gain Requisition Points (RP) or Fruits of Victory (
 
 If a Commander is **unable to coordinate any engagements** in one of the Conflict Zones during a Chapter, they may still attempt to advance their Battle Company through one of two following options:
   - Submit written prose of a fictious engagment/dialogue/etc regarding their Battle Company to the Event Organizer. They will be awarded 1 RP for every 500 words (the average length of a printed narrative's page). Any foes that are included which are controlled by another Campaign Commander must be approved by them beforehand.
-  - Completely paint a Horus Heresy Unit/Model to "Parade" Standard, awarding 1 RP for every 200 Points (rounded to the nearest 100). Once RP has been awarded in this manner, the models are not eligible cannot earn this reward a second time.
+  - Completely paint & photograph a Horus Heresy Unit/Model to "Parade" Standard, awarding 1 RP for every 200 Points (rounded to the nearest 100). Once RP has been awarded in this manner, the models are not eligible cannot earn this reward a second time.
+Commanders may only submit ONE of each of the above options per game they have missed in a given Chapter. 
 
-At the start of each Chapter, there will be a Universal, Campaign-Wide Supply Limit Increase. This will also be the time when Commanders may spend Requisition Points to upgrade their armies (learn more about this process [here](/Bitter-Conquest/Requisitions)). The schedule for the first half of 2023 is as follows:
+**EO's Note**: If the Commander has joined late or is returning from a hiatus, they may create entries to be submitted as per the rules above for each game they have missed (including those in previous Chapters). This must be done before the end of the current Chapter in which they have joined/returned.
+{: .notice--primary}
+
+At the start of each Chapter, there will be a Universal, Campaign-Wide Supply Limit Increase. This will also be the time when Commanders may spend Requisition Points to upgrade their armies (learn more about this process [here](Bitter-Conquest/Requisitions)). The schedule for the first half of 2023 is as follows:
 
   - **Chapter 1** (_Jan 13th - Feb 22nd_): 2000pt Supply Limit
+    - Ch. 1.1 (Jan 13th - Jan 25th): 1750pt Game Maximum
+    - Ch. 1.2 (Jan 27th - Feb 8th): 1750pt Game Maximum
+    - Ch. 1.3 (Feb 10th - Feb 22nd): 2000pt Game Maximum
   - **Chapter 2** (_Apr 3rd - Apr 23th_): 2250pt Supply Limit
   - **Chapter 3** (_May 8th - May 28th_): 2750pt Supply Limit
   - **Chapter 4** (_Jun 5th - Jun 25st_): 3000pt Supply Limit

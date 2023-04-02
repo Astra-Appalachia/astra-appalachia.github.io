@@ -35,7 +35,7 @@ Select one model with the Character Sub-Type from a Unit within your Battle Comp
 
 ## Field Promotion (2 RP)
 
-Select a Unit from your Battle Company which has at least achieved the Blooded Rank and has a model with the Character Sub-Type. The Character may be upgraded to the next higher level of their type, if one is available, inheriting the new profile but keeping the previous options. For example, a Legion Consul may be upgraded to a have a Legion Praetor's base profile, but keeps their specialty. Likewise, a Legionnaire Tactical Sargent may be promoted to a Legion Centurion's profile, but remains within his Tactical Squad. Consult with your Campaign's Event Organizer regarding any questions that may arise. Every time a model is promoted in this way, increase its Crusade Points by 2.
+Select a Unit from your Battle Company which has at least achieved the *Blooded* Rank and has a model with the Character Sub-Type. The Character may be upgraded to the next higher level of their type, if one is available, inheriting the new profile but keeping the previous options. For example, a Legion Consul may be upgraded to a have a Legion Praetor's base profile, but keeps their specialty. Likewise, a Legionnaire Tactical Sargent may be promoted to a Legion Centurion's profile, but remains within his Tactical Squad. Consult with your Campaign's Event Organizer regarding any questions that may arise. Every time a model is promoted in this way, increase its Crusade Points by 2.
 
 ## Armament Refitting (1 RP)
 
@@ -50,6 +50,13 @@ Select one Unit from within your Battle Company that has one or more Battle Scar
 Unlike other Requisitions, this Order may be purchased at any time. Select one Unit from your Regimental Registry that has a Roster Card. You can change any Wargear Options that models in that unit are equipped with as described on that unit’s profile. You cannot replace a Weapon that a model is equipped with if the Weapon in question has been upgraded by a Weapon Enhancement/Battle Honor/etc.
 
 **Designer's Note:** Remember, you may always pay for the Optional Wargear when you first create a Unit's Roster Card. If you do so, treat it as an additional points cost for the Unit (adding to the Unit's total) for the purposes of determining if you are under your Supply Limit. You may never exceed your Supply Limit for any reason.
+{: .notice--info}
+
+## Endless Combat Drills (2 RP)
+
+Unlike other Requisitions, this Order may only be purchased once for every two games in which the Commander has not been able to play. Select one Unit which has not reached the *Grizzled* Rank. This Unit is awarded the minimum XP required to increase to the next Rank and awarded their Battle Honour.
+
+**Designer's Note:** This is designed to allow players who are new or are returning after a hiatus to level up key units. Such players may use previously earned RP or additional RP via any terms detailed by the E.O. Do not abuse this system.
 {: .notice--info}
 
 ## Even in Death I Still Serve (2 RP)

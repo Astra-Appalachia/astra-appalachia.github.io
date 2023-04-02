@@ -159,7 +159,7 @@ Model's PV = {[(Base Unit PV) + (Additional Models's PV)] / (Number of Models in
 
 Whenever a Commander defeats an Opponent whose Engagement Force comprises a number of Crusade Points at least **double** their own, the Victorious Commander receives one (1) additional Requisition Point for the Victory, and may choose one (1) additional Unit to be *Marked for Greatness* over and above the usual limit for the mission which has been completed.
 
-In addition, whenever any Unit destroys an Enemy Unit in the course of a battle, if the unit that was destroyed is of a higher rank than the unit which caused the final casualty, then the victorious unit counts as having killed two (2) units towards their overall tally, rather than the usual one (1).
+In addition, whenever any Unit completely destroys an Enemy Unit in the course of a Battle, if the Unit that was destroyed is of a higher rank than the Unit which caused the final casualty, then the Unit is awarded an additional 1 XP. If the Enemy Unit leaves the Battle Field due to *Falling Back*, then the Unit which caused the Enemy Unit to *Fall Back* initially is awarded this.
 
 ## Battle Honours
 

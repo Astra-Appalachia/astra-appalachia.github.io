@@ -38,6 +38,7 @@ Each Battle Company may only gain Requisition Points (RP) or Fruits of Victory (
 If a Commander is **unable to coordinate any engagements** in one of the Conflict Zones during a Chapter, they may still attempt to advance their Battle Company through one of two following options:
   - Submit written prose of a fictious engagment/dialogue/etc regarding their Battle Company to the Event Organizer. They will be awarded 1 RP for every 500 words (the average length of a printed narrative's page). Any foes that are included which are controlled by another Campaign Commander must be approved by them beforehand.
   - Completely paint & photograph a Horus Heresy Unit/Model to "Parade" Standard, awarding 1 RP for every 200 Points (rounded to the nearest 100). Once RP has been awarded in this manner, the models are not eligible cannot earn this reward a second time.
+
 Commanders may only submit ONE of each of the above options per game they have missed in a given Chapter. 
 
 **EO's Note**: If the Commander has joined late or is returning from a hiatus, they may create entries to be submitted as per the rules above for each game they have missed (including those in previous Chapters). This must be done before the end of the current Chapter in which they have joined/returned.

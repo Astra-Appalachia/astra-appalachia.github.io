@@ -36,7 +36,7 @@ Units can also be removed from a forces Regimental Registry at any time, but one
 
 An important thing to remember is that the units making up the Regimental Registry do not have to conform to any Force Organization Chart or Allies matrix. Instead, they form the available pool of units from which an army can be created, at which time a legal list must be used. So, for example, the Regimental Registry could include units from other factions, but when they are included in an army, they would be fielded as Allies, needing all of the required minimum units to do so. So early on, it is common for an Regimental Registry to look identical to an army list, but as the campaign progresses and the Supply Limit is increased, more varied options can be incorporated to give the Battle Company some flexibility.
 
-A unique aspect of the *Bitter Crusade* Campaign System is how it handles Warlord Traits. Warlord Traits are not automatically granted to an eligible Unit unless the Unit in question is a Named Character (and as such, has it listed on their profile). Instead, leaders must gain a Warlord Trait through the use of Requisitions, either when they are initially added to the Regimental Registry or when they are promoted. As a counter balance, any Character may eventually reach the point where they begin to grow in their abilities (see [Battle Honours](#battle-honours) and the [Beseech the Wisdom of the Ancients](/Bitter-Conquest/Requsisitions#beseech-the-wisdom-of-the-ancients) Requisition Request) to represent their advancement in the narrative.
+A unique aspect of the *Bitter Crusade* Campaign System is how it handles Warlord Traits. Warlord Traits are not automatically granted to an eligible Unit unless the Unit in question is a Named Character (and as such, has it listed on their profile). Instead, leaders must gain a Warlord Trait through the use of Requisitions, either when they are initially added to the Regimental Registry or when they are promoted. As a counter balance, any Character may eventually reach the point where they begin to grow in their abilities (see [Battle Honours](#battle-honours) and the [Beseech the Wisdom of the Ancients](/Bitter-Conquest/Requisitions#beseech-the-wisdom-of-the-ancients) Requisition Request) to represent their advancement in the narrative.
 
 # Requisitions
 
@@ -48,7 +48,7 @@ At all times, a Battle Company's current level of RP should be recorded on its R
 
 A Commander may only spend their banked RP at the beginning of a *Chapter*. Chapters are designated sections of the narrative campaign that players are forging with their Event Organizer(s) and can be used to mark out significant moments of time, shifts in the focus of the campaign, etc. This restriction helps root the Campaign within the fractured nature of the Galaxy during the span of the Horus Heresy. There is no limit to the amount of RP that a Commander may spend at the start of each Chapter.
 
-For a full list of Requisitions, see [Appendix: Requisition Requests](/Bitter-Conquest/Requsisitions).
+For a full list of Requisitions, see [Appendix: Requisition Requests](/Bitter-Conquest/Requisitions).
 
 # Campaign Battles
 
@@ -126,7 +126,7 @@ Now compare the final result with the following Causality Survival Table:
 | -------------------- | ------------------------------------------------------------ |
 | 1 - 2                | **Survived:** The Character escapes lasting injury and recovers without any negative penalties. |
 | 3 - 4                 | **Shaken:** The Character is pained by their injuries and loss at the hand of the enemy. In the next game in which the character is fielded, they suffer a -1 penalty to their Leadership characteristic. |
-| 4 - 6                | **Battle Scared**: The wounds that the Character have left a lasting effect on them. Proceed to the [***Battle Scar*** section](/Bitter-Conquest/Battle-Scars) and roll on the table which matches the Character's Unit Type. The Unit then suffers -1 Crusade Points. Note, that a Character may not have the same Battle Scar twice, so reroll all duplicate Battle Scars. |
+| 5 - 6                | **Battle Scared**: The wounds that the Character have left a lasting effect on them. Proceed to the [***Battle Scar*** section](/Bitter-Conquest/Battle-Scars) and roll on the table which matches the Character's Unit Type. The Unit then suffers -1 Crusade Points. Note, that a Character may not have the same Battle Scar twice, so reroll all duplicate Battle Scars. |
 | 7                    | **Battle Scared** + **Captured:** The Character has been injured beyond the capacity to resist capture and is carried off deep behind enemy lines to be interrogated, tortured, or perhaps executed and their remains used as trophies. The Character's Commander may elect to engage in a [Liberation Mission](/Bitter-Conquest/Special-Liberation) to decide the Character's fate. This must be completed before the end of the current Chapter and the Character cannot be used until after the Mission has been completed. Otherwise, this roll is considered to have resulted in a *Fatality* (see below). |
 | 8 +                  | **Fatality:** The Character has suffered such terrible injuries that they are either slain completely or so badly wounded they are barely alive when they return to the Fleet. If this is the first time the Character has experienced this result, the Commander may elect to have the Character interred into a Cortus-grade Dreadnought Chassis (see Appendix: Upgrades and Artifacts). |
 
@@ -136,7 +136,7 @@ As Units fight their way through the Engagements, they are awarded Experience Po
 
 - **Battle Experience:** Each Unit which participated in the Battle gains 1 XP.
 - **Marked for Greatness:** Select one Unit which performed remarkably well during your Engagement; that Unit gains 2 XP.
-- **Dealers of Death:** A Unit gains 1 XP for every three Enemy Units Destroyed over the course of the Campaign. Note, Units which join other Units or are split due to their Special Rules count as separate Enemy Units for this progression pathway.
+- **Dealers of Death:** A Unit gains 1 XP for every 300 Points of Enemy Models Destroyed over the course of the Campaign. Note, any Model which can join/leave other Units or is split after deployment due to their Special Rules (such as with *Dreadnought Talon*) count as separate Units for this progression pathway.
 - **Secret Opportunity:** An Unit that has achieved their assigned Agenda gains XP as detailed in its description.
 
 If a unit has accrued enough XP, it will gain a promotion and go up a ***Rank***. Each time a unit gains a rank, it will gain one Battle Honor (ensure you note this on the Unit's Roster Card). The path towards promotion is as follows:
@@ -149,7 +149,16 @@ If a unit has accrued enough XP, it will gain a promotion and go up a ***Rank***
 |        51 - 80         |    Heroic    |           3            |
 |          81+           |  Legendary   |           4            |
 
+**Author's Note:** To calculate the amount of points a single model is worth, simply divide the number of points for the base unit plus any addition optional models by the total number of models. If a Model has taken any Additional Equipment or Special Rules as detailed in their Profile, add the Point Value of each upgrade to the individual Points Value (PV) for that Model. 
 
+Model's PV = {[(Base Unit PV) + (Additional Models's PV)] / (Number of Models in the Unit)} + (PV of Additional Equipment on Model)
+{: .notice--primary}
+
+### Casting Down Idols
+
+Whenever a Commander defeats an Opponent whose Engagement Force comprises a number of Crusade Points at least **double** their own, the Victorious Commander receives one (1) additional Requisition Point for the Victory, and may choose one (1) additional Unit to be *Marked for Greatness* over and above the usual limit for the mission which has been completed.
+
+In addition, whenever any Unit destroys an Enemy Unit in the course of a battle, if the unit that was destroyed is of a higher rank than the unit which caused the final casualty, then the victorious unit counts as having killed two (2) units towards their overall tally, rather than the usual one (1).
 
 ## Battle Honours
 

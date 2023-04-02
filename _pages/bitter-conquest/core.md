@@ -14,6 +14,9 @@ sidebar:
 **Frequently Asked Questions**: You can find our FAQ for the system describe below [here](/Bitter-Conquest/FAQ).
 {: .notice--primary}
 
+**Designer's Note**: This system has been adapted from and inspired by the following publications to enable play in *Warhammer - The Horus Heresy* (Second Edition): _Crusade_ (Warhammer 40,000, Ninth Edition Narrative Play); *Conquest* (*The Horus Heresy Book 4: Conquest*, pg. 166-237 ); *Great Crusade* Campaign System (Aus30K Event Organizers); and numerous other sources official sources no longer in print.
+{: .notice--primary}
+
 # Assembling a Battle Company in the Age of Darkness
 
 The first step any Player (herein referred to as a *Commander*) must accomplish to participate in a narrative Campaign during the Horus Heresy is creating a ***Battle Company***. The Battle Company represents those militants whom have banded together under a common cause to fight their way across the Galaxy, either in the name of the Emperor or the Warmaster. Given the nature of this system, it is highly suggested that Commanders invest time into building a narrative around the origins of their Battle Company as it can serve as a guiding light through their journey into the Age of Darkness.
